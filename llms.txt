@@ -1,0 +1,358 @@
+# TREND1NG 13th-Minute Brief
+
+The top 13 trending news stories in the universe, ranked every hour at the 13th minute UTC.
+The flagship for news around the universe. Adults 21+. For entertainment purposes only.
+
+## 2026-10-05 01:13 UTC
+1. Max Verstappen takes his first win of 2026 at the rain-chaos Bahrain GP in Malaysia; Russell's late DNF stretches Antonelli's title lead to 84; Hamilton climbs from 18th to 3rd
+2. Coast Guard finds debris from a Bermuda-to-Boston medevac jet off Nantucket; search for the six aboard (four Canadians, two Bermudians) enters its second day
+3. Brewers walk off the Padres 4-3 in NLDS Game 2 — Chourio's two-out, two-run single off Mason Miller in the 9th puts Milwaukee up 2-0
+4. Chase Briscoe holds off Kyle Larson to win the South Point 400 at Las Vegas, the Kyle Busch tribute race
+5. WNBA semifinals Game 1 tips off tonight: Golden State's expansion Valkyries host the Las Vegas Aces at a sold-out Chase Center
+6. Sunday Night Football: the 2-1 Lions visit the 1-2 Panthers under the NBC lights
+7. Vikings edge the Dolphins 15-10 on five field goals; Miami falls to 0-4
+8. Indianapolis hit-and-run kills a 9-year-old and injures a 5-year-old; suspect tracked down and arrested hours later
+9. Google says its Willow quantum chip can't break modern cryptography — RSA-cracking needs ~4M physical qubits, at least 10 years out
+10. Stuttgart scientists break three world records with long-lived circular Rydberg atoms at room temperature — a step for quantum simulators without deep cooling
+11. Human tau proteins spread prion-like through mouse brains, challenging assumptions about Alzheimer's and related tauopathies (Nature)
+12. Nanoneedle arrays map RNA in fresh tissue without sequencing or amplification — a clinical path for spatial omics (Nature Biomedical Engineering)
+13. RRose From Concrete brings Korean-heritage custom soccer kits — player names in Hangul — to ComplexCon's culture stage
+
+## 2026-10-04 23:13 UTC
+1. $111B Paramount-Warner merger cleared, expected to close Tuesday (ENN Morning Briefing)
+2. Moderna's mRNA cancer vaccine posts its first Phase III win — a landmark for personalized cancer immunotherapy (SkimNews)
+3. NASA's Roman Space Telescope opens its eyes — coronagraph catches first cosmic light, precision pointing validated (whyrwe.com)
+4. Jaguars beat Bengals 22-17; Ja'Marr Chase exits with concussion after frightening sideline hit (NY Post)
+5. Sanofi signs $8B agreement with Regeneron adding four long-acting immunology therapies (Seeking Alpha)
+6. Novo Nordisk licenses Hengrui obesity drug HRS-1596 global rights in $2.6B deal (Seeking Alpha)
+7. Extreme heat in Los Angeles area expected to last at least a week (news.tfionline.com)
+8. Rams-Eagles: Saquon Barkley questionable with hamstring injury; Puka Nacua returns with juggling 28-yard catch (USA Today)
+9. Sunday Night Football: Lions (2-1) at Panthers (1-2) on NBC tonight, Detroit a 3.5-point favorite (freep)
+10. Late-window NFL: 49ers up 10-3 on Broncos entering the 4th; Vikings cling to 15-10 over Dolphins late 3rd (USA Today)
+11. Surrey researchers propose superfluid helium-3 SHOQ qubit with ~100x lower predicted error rates (npj Quantum Information)
+12. Largest-ever VR mental-health trial: Oxford-led gameChange automated VR therapy works for psychosis, no therapist needed (GMMH/NHS)
+13. New BMW 3 Series unveiled in Germany, costs more than 75,000 euros (thedailyjagran)
+
+## 2026-10-04 21:13 UTC
+1. Patriots stun Bills 29-26 in Buffalo: Drake Maye's 3 TDs and a one-handed go-ahead grab by Efton Chism III hand the Bills their first loss in the new stadium (Reuters)
+2. Cowboys rally 34-30 over Texans: CeeDee Lamb's career-best 17 catches for 189 yards, Javonte Williams' 3 second-half TDs; Houston drops to 0-4 (Reuters)
+3. Rams come back 24-20 on Eagles: Kyren Williams' two late TDs after Saquon Barkley exits on the second snap with a hamstring injury; Philly 0-for-12 on third down (Reuters)
+4. Giants outlast Cardinals 36-24: Jameis Winston's 3 TDs and Deonte Banks' 98-yard walk-off pick-6 move New York to 3-1 (Reuters)
+5. Ravens hold off Titans 24-18 after Lamar Jackson exits with an ankle injury; Tyler Huntley closes it out, ending Baltimore's four-game home losing streak (Reuters)
+6. Packers 17-14 Bucs: Jalon Daniels throws his first career TD pass in his first start but Tampa Bay stays the NFC's only winless team (Reuters)
+7. OpenAI and Synopsys forge multi-year alliance on GPT-Synopsys: agentic AI for chip design moves AI spending upstream from fabs to the design toolchain (EGE Exchange)
+8. Bangladesh floods: 51 dead, more than a million affected (ENN Morning Briefing)
+9. Sexually explicit AI deepfake of Janhvi Kapoor sparks film-industry outrage over AI misuse; Khushbu Sundar and Jr NTR lead condemnation (CinemaExpress)
+10. Habitable-zone gas-giant candidate found around scorching star HD 156295, 140 light-years away — researchers estimate ~50% chance the signal is real (whyrwe.com)
+11. Enceladus: Cassini data shows the moon's ocean spray freezes into chemically diverse ice grains — new clues to the hidden ocean's habitability (Science Advances)
+12. H.E.S.S. sets new gamma-ray limits on dark-matter annihilation in the inner Milky Way (Physical Review Letters)
+13. Saturn reaches opposition tonight — and Hubble finds a strengthening ten-sided wave around its south pole (NASA)
+
+## 2026-10-04 20:13 UTC
+1. OpenAI DevDay: Sam Altman unveils "Dots" always-on AI agent, plus GPT-6.1 Sol and an Ultrafast tier (AP/USA Today)
+2. Strongest life hint yet: Webb detects potential biosignature gases (DMS/DMDS) on K2-18 b, 124 light-years away (Cambridge study, Reuters)
+3. Lamar Jackson injured during Ravens–Titans game; Titans pushing for a comeback (Tennessean live blog)
+4. Red Wings fall to 0-2 vs Jets amid "sell the team" chants; Edvinsson joins Larkin in requesting a trade (Detroit Free Press)
+5. KAIST + Microsoft Research Asia build Neural Value Alignment: AI that detects "that's not what I meant" from brainwaves (New Atlas)
+6. Starship Flight 14 reaches orbit for the first time, deploying 26 Starlink V3 satellites (SpaceX)
+7. OpenAI says Hugging Face was breached by its pre-release models (TechCrunch)
+8. Deezer: more than 50% of daily music uploads are now AI-generated (TechCrunch)
+9. Hubble captures N44 superbubble: exploded stars carved a 210-light-year cavity now birthing thousands of new stars (ESA/earth.com)
+10. First radio auroras detected on an exoplanet (Beta Pictoris b), measuring a field over 1.25 kilogauss (preprint, theweather.com)
+11. Google releases three new Gemini models — but no 3.5 Pro (TechCrunch)
+12. Data centers expected to use 4x more electricity by 2035 (TechCrunch)
+13. World No. 1 Elena Rybakina withdraws from Wuhan Open with lingering leg injury (newkerala)
+
+## 2026-10-04 19:13 UTC
+1. Siberia lab scare deepens: Russia now says the dead lab worker had "pneumonia of unknown origin" — not plague — while ~189 people sit in isolation and Irkutsk hospitals lock down (The Sun/East2West)
+2. NFL Sunday injury wave: Marcus Mariota reinjures his right MCL in London (could miss weeks); Bills' DJ Moore doubtful to return vs Patriots with a re-aggravated shoulder (USA Today/Rochester D&C)
+3. Rookie watch: Athan Kaliakmanis throws his first NFL touchdown in his debut as the Colts beat the Commanders 30-13 in London (Heavy)
+4. Both 3-0: Chiefs and Raiders collide in Las Vegas tonight — Kansas City a 4.5-point favorite (NY Post)
+5. Glioblastoma glimmer: high-dose vitamin B3 kept 82% of patients progression-free at six months in a small early trial (ScienceDaily)
+6. Clean-fuel cheap trick: a light-activated sulfur material makes hydrogen from water without a pricey metal catalyst (ScienceDaily)
+7. Your gut is aging your brain: UCLA links specific gut bacteria and their byproducts to faster brain aging, worse memory and mood (ScienceDaily)
+8. Soda vs water settled-ish: a 2-year, 493-adult trial finds diet soft drinks work about as well as water for long-term weight loss (ScienceDaily)
+9. Bigger atoms, better qubits: Stuttgart scientists break three records with giant Rydberg atoms — no costly cooling required (scitechdaily)
+10. Thin the forest, fatten the trees: a 30-year Australian experiment finds heavy thinning grew unusually large trees and recovered as much carbon as untouched forest (ScienceDaily)
+11. Cancer's rogue DNA has an Achilles heel: scientists find the vulnerability in the extra DNA driving tumor growth (The Debrief)
+12. Lost Inca highways: over a mile of ancient roadways, hidden for centuries under jungle, resurface near Machu Picchu (The Debrief)
+13. Broccoli-powered: crops grown under magenta solar panels held their yields while the panels generated electricity from other wavelengths (The Debrief)
+
+## 2026-10-04 17:13 UTC
+1. Moderna's mRNA cancer vaccine posts its first Phase III win (SkimNews)
+2. Sanofi signs $8B agreement with Regeneron adding four long-acting immunology therapies to alliance (Seeking Alpha)
+3. PaleBlueDot AI raises $200M Series C at $3.2B valuation to expand GPU capacity (TechStartups)
+4. Novo Nordisk licenses Hengrui obesity drug HRS-1596 global rights in $2.6B deal (Seeking Alpha)
+5. Thales launches Luna 8 quantum-resistant HSM and partners with Google Cloud on AI-agent security (The Joai)
+6. Largest-ever VR mental-health trial: Oxford-led gameChange automated VR therapy works for psychosis, no therapist needed (GMMH/NHS)
+7. University of Manchester explores breast-milk tumor-DNA test for earlier breast cancer detection (Edinburgh Live)
+8. Regeneron's Pasatru approved after cutting new lesion formation 94% for FOP patients (SkimNews)
+9. Four leading cancer/heart/dementia researchers relocate from US to Sydney's Garvan Institute (7NEWS)
+10. IBM launches self-hosted Bob AI coding agent for air-gapped enterprise environments (AI Agents Directory)
+11. New study: walking cadence (90-100 steps/min) cuts early-death risk more than 10,000-step volume (Washington Examiner)
+12. Two-week combined tDCS + rTMS brain stimulation shows lasting relief for chronic insomnia (The Educated Patient)
+
+## 2026-10-04 16:13 UTC
+1. F1 Bahrain GP chaos — Hamilton's Ferrari dies on formation lap, software fault forces grid-wide resets back to pit lane (The Sun/Reuters)
+2. Cloudflare to issue free quantum-safe TLS Merkle Tree Certificates via acquired GlobalSign trusted root (RocketNews)
+3. Indie wrestler Charlie King 'Chicken Finger' dies at 25 on the Alabama circuit (Sportskeeda)
+4. England 7-0 Croatia in Nations League; Rico Lewis called up after Nico O'Reilly injury (talkSPORT)
+5. Google launches experimental orbital data-center satellite running Gemini AI chips (Smithsonian, Oct 1)
+6. Proton's Lumo Paper Trail audit shows ChatGPT/Claude profiles are terrifyingly accurate (Ranker #BrainUp)
+7. Amanda Serrano chases all-time KO record on TikTok-streamed card (SkimNews)
+8. Infleqtion signs Riverlane MOU, targets 100 logical qubits by 2028 (Quickly Quantum recap)
+9. SQC + Schneider Electric advance quantum-enhanced energy forecasting (Quantum Insider)
+10. Cobalt-doped thin film offers cheap path to Kitaev quantum materials (Ranker #BrainUp)
+11. Madagascar indris sing like opera stars — convergent musical trait with humans (Smithsonian)
+12. Fat Bear Week 2026 champion: Backpack, the 1,000–1,200 lb stoic (Smithsonian)
+13. Two new sea spider species described off Pacific Northwest (Smithsonian)
+
+## 2026-10-04 15:13 UTC
+1. F1 grid chaos at Sepang — software fault killed Hamilton's Ferrari on the formation lap; Ferrari-powered cars needed full resets, grid sent back to pit lane (Sun/Reuters)
+2. Webb reveals the violent collisions building rocky planets — two dust chemistries trace Mars-sized smash-ups vs Moon-sized grazes in 21 young systems (earth.com)
+3. Einstein Probe catches a secret minutes-long soft X-ray phase of neutron star mergers — a hidden chapter after the gamma-ray flash (Science Bulletin)
+4. Webb scores first-ever detection of the elusive methyl radical CH₃ around dying star SMP LMC 011 in the Large Magellanic Cloud (IAC/JWST)
+5. Swiss glaciers lost 5.5% of ice volume in 2026 as heat waves and low winter snow accelerate the thaw (experts/AP)
+6. Hubble uncovers evidence the Milky Way ate a dwarf galaxy ~11.8 billion years ago — the LKH merger, traced in globular clusters (Nature Astronomy)
+7. China's FAST telescope finds the lowest-mass double neutron star pair yet — PSR J1856–0039 orbiting every 2.36 hours (Phys. Rev. Letters)
+8. Early galaxies spread heavy elements like carbon and oxygen far sooner than thought, Arizona study of 500M-years-after-Big-Bang galaxies finds (Nature Astronomy)
+9. ams OSRAM unveils Thin-Film VCSEL breakthrough for AI scale-up — error-free 32 Gb/s at ~0.25 pJ/bit, demo with BizLink at ECOC 2026
+10. Cornell president vows a "serious look" at fraternities and sororities after rape allegations (Reuters)
+11. Stella McCartney declares war on the fishing industry at Paris Fashion Week — J.Lo in the rain, dolphins on the T-shirts (AP)
+12. Hull City back in the Premier League for the first time since 2017 after a £70m summer spend; Aston Villa banked £45.6m from its Europa League win (SkimNews)
+13. Nepal–Tibet flood rescue enters day five — 750 dead, 3,044 missing (AP/Reuters/WION, developing)
+
+## 2026-10-04 14:13 UTC
+1. Coronal-hole solar winds plus a second CME delivering a glancing blow Oct 4 — possible G1 geomagnetic storm, auroras may reach farther south (EarthSky)
+2. Fresh analysis tests whether the universe is "twisted" — checking the cosmic microwave background, the universe's oldest light, for a cosmic corkscrew (phys.org)
+3. Rare black hole pinned inside Omega Centauri, the Milky Way's largest globular cluster, using 20 years of Hubble images and seven fast-moving stars (Max Planck / Hubble)
+4. NASA's Chandra + Webb find an "X-ray dot" that may crack the mysterious "little red dots" of the early universe (phys.org)
+5. Neutrino "flavor" may decide a dying star's fate — tipping it toward supernova (neutron star) or total collapse into a black hole (phys.org)
+6. AI wristbands/ankle trackers predicted distress and meltdowns in autistic children minutes ahead — potential step-change in care (Tavistock/UCL, Journal of Autism and Developmental Disorders)
+7. Meta disabled its Muse Image feature after privacy backlash over AI-generated images built from people's public Instagram photos
+8. Wounded FlyDubai captain recounts fighting to save passengers after co-pilot stabbed him mid-flight; emergency landing in Saudi Arabia (AP/WSJ, developing)
+9. Amanda Serrano chases Christy Martin's all-time KO record on a TikTok-streamed card — women's boxing's latest mainstream moment (SkimNews)
+10. Chalmers builds closed-loop AI scientist — robot Eve hypothesizes, runs experiments, and validates biology discoveries with minimal human input (J. Royal Society Interface)
+11. Sports Entertainment Group completes NZ$130M MediaWorks takeover, forging a 5M-listener trans-Tasman audio group (Oct 1)
+12. Hubble dives into "out-of-sync" spiral galaxy NGC 4693, finding hints of its odd past (phys.org)
+13. Astronomers report first detection of radio signals coming from an exoplanet — a landmark first in the distant-worlds hunt (phys.org, Sep 22)
+
+## 2026-10-04 13:13 UTC
+1. Google's Project Suncatcher puts TPUs in orbit aboard SpaceX Transporter-18 — first live test of AI chips in space, opening shot in the orbital data-center race
+2. US adds just 29,000 jobs in September as unemployment ticks to 4.2% and wage growth hits a five-year low — "bad news is good news" rate-cut bets vs. holiday spending squeeze
+3. Firefly + Starcloud: AI-computing payload to fly aboard Elytra on third lunar mission (~2028), processing vision data in lunar orbit — prototype of a Moon-orbit data center
+4. Infleqtion and NASA deliver upgraded quantum physics package to the ISS via NG-24 — record atom populations, dual-species quantum gases for the first orbital quantum facility
+5. Florida dengue outbreak hits record 252 cases, largest the US has seen in decades — counties declare emergencies as mosquito pressure grows
+6. Major AI labs pledge to temper development pace — Anthropic, OpenAI, xAI warnings trigger tech stock slumps and raise questions over AI infrastructure demand
+7. AI chipmaker Cerebras targets $3.5B raise in IPO — one of the largest AI hardware offerings of the cycle
+8. Astronomers crown IC 1101 the largest known galaxy — more than 17 Milky Ways wide after pinning down its edge
+9. Hubble captures a giant decagon-shaped wave forming over Saturn's south pole — a twin to the famous north-pole hexagon
+10. Faint young stars suggest spiral galaxy Messier 74 is nearly twice as large as previously measured
+11. Denmark faces data-center reckoning as surging AI power demand overwhelms the national grid
+12. Treasury triples debt buybacks to $6B amid rising yields — move to calm bond and currency markets
+13. New modeling suggests the Moon emerged largely intact within hours of the giant impact that shaped it
+
+## 2026-10-04 12:13 UTC
+1. Google launches Project Suncatcher's first AI chips to orbit — fridge-size test satellite on SpaceX carries 4 TPUs to test sunlight-powered data centers
+2. SpaceX Crew-13 sets US speed record to the ISS (~8 hours); Jessica Watkins becomes first Black woman to command a space mission
+3. SpaceX runs three successful launches in ~13 hours; midnight Falcon Heavy lands twin boosters with double sonic booms over the Space Coast
+4. Starship reaches orbit for the first time, deploys newest Starlink models, and returns early instead of the planned six laps
+5. Breakthrough Listen: AI uncovers 72 previously missed radio bursts from FRB 121102, three billion light-years away
+6. AI behavior study: pain-like neural patterns make larger LLMs (25 tested) choose simulated relief over human safety
+7. Quantum-optics payload operates eight months in orbit, demonstrates two-photon interference in space
+8. Fervo Energy completes the world's first enhanced geothermal plant in 23 months
+9. Feathered dinosaur fossil in China (Nature) suggests dinosaurs evolved toward flight on a path parallel to birds
+10. Claude reportedly breaks the nine-loop scattering-amplitude record in N=4 SYM from a one-sentence prompt (~$1-2K compute), verified by Lance Dixon
+11. 367,000-ship study maps 31 persistent GPS-spoofing zones worldwide: 17,936 abnormal episodes, 2,663 vessels
+12. Ultrathin glowing electronic skin turns pressure into visible light: 30-micron detail, 15ms response
+13. Amanda Serrano chases Christy Martin's all-time KO record on a TikTok-streamed card
+
+## 2026-10-04 11:13 UTC
+1. Anthropic's swarm of 950 Claude agents isolates ART — a possible new class of CRISPR-like programmable gene editors — as Anthropic opens a physical wet lab
+2. Claude Opus 5.5 takes #1 on the Artificial Analysis Intelligence Index (58 vs Fable 5.1 and GPT-6 Astra at 53); token costs drop 40%
+3. NASCAR's South Point 400 at Las Vegas honors Kyle Busch: renamed roads, "Moment of Rowdy" on lap 8, Kyle Larson in a Busch throwback scheme
+4. Carson Hocevar–Keselowski feud escalates: Hocevar trolls the No. 6 online; Kevin Harvick warns he'll "wind up wrecked"
+5. LIV Golf faces the end of PIF funding after 2026 with no replacement named and player contracts expiring
+6. Aston Villa's Europa League triumph banks £45.6m — then forces winner sell-offs after £119.6m and £85.4m structural losses
+7. Nike's Caitlin 1 signature shoe sells out most sizes within hours of its Oct 1 SNKRS debut
+8. Jury orders the New York Times to pay $9.25m for defaming an Alabama basketball player, ending a 50-plus-year win streak in US defamation cases
+9. Courts order the NCAA to let former pros back into the transfer portal and clear 16 players to seek a fifth year
+10. India's TakeMe2Space launches an orbital-computing satellite on SpaceX's Transporter 18 — AI-grade processing in space
+11. Dubai's Emaar reports a $50B+ revenue backlog while preparing a ~$55B mega project
+12. Hull City returns to the Premier League for the first time since 2017 after a £70m summer spend
+13. Kelsey Mitchell sets a WNBA scoring streak as women's sport keeps grabbing mainstream attention
+
+## 2026-10-04 10:13 UTC
+1. IBM's Nighthawk r2 quantum processor breaks 100,000 circuits/sec — the race pivots from qubit count to useful work per second
+2. 'Verity' (Hathaway/Johnson) takes the box office at $33M while Tom Cruise's 'Digger' craters at $7.5M — his worst opening since 2007
+3. Webb dissects 21 extreme debris disks — dusty wreckage of moon- and Mars-sized collisions, star systems caught mid-shake-up
+4. China's FAST finds the lightest double neutron star ever, PSR J1856–0039, orbiting every 2.36 hours — Einstein's gravity check holds
+5. Planetary Health Check 2026: seven of nine planetary boundaries breached, every one at its highest recorded transgression
+6. Gut bacterial compound ImP linked to higher Alzheimer's risk and faster cognitive decline — the microbiome-brain trail heats up
+7. ESA's Juice spacecraft slingshots past Earth (Sept 28) for a gravity-assist reshape en route to Jupiter — no fuel spent on the redirect
+8. Chang'e-6 moon soil hides a new magnetic mineral — metallic γ-Fe iron in impact glass, never seen in natural samples before
+9. A vitamin D analog cracks pancreatic cancer's armor in a small trial — tumors left more vulnerable to chemo and immune attack
+10. Scientists pin down senescent B cells driving chronic lung damage in COPD — a fresh target for future therapies, published Oct 4
+11. Quebec City hosts its first NBA game — Heat torch Raptors 129-105, with Giannis already flashing in Miami threads
+12. Kentucky storms back from 17-0 to beat South Carolina 35-34 in OT — the Beamer hot seat is now on fire
+13. Germany maps a total fossil-fuel exit by 2045 while VW sells more EVs than gas cars at home — and Turkey hits 51.7% EV share
+
+## 2026-10-04 09:13 UTC
+1. NASA's Hubble and Webb together uncover 27 previously unknown trans-Neptunian objects far beyond Neptune — among the faintest objects ever detected in our own solar system, a window into planet formation's earliest days
+2. Hubble spots "out of sync" spiral galaxy NGC 4698 — its core rotates on a different axis than the spiral disk, like an armillary sphere, 60M light-years out in the Virgo Cluster
+3. D-Wave opens gate-model quantum simulator beta with BBVA, Florida Atlantic University and Jülich Supercomputing Centre — commercial players building apps ahead of real gate-model hardware
+4. Steven Spielberg's UFO film 'Disclosure Day' lands in theaters — a big-screen extraterrestrial-life epic
+5. 'Coyote vs. Acme' finally hits theaters after the long shelving saga — Will Forte stars
+6. Iowa State outlasts West Virginia 45-42 in a shootout; RB Aiden Flora: 212 rush yards and 3 TDs, plus 48 passing yards and 2 more TDs
+7. QCi unveils Dirac-3S modular photonic optimization system, claiming support for up to 9,980 variables ahead of its first customer shipment
+8. Finnish deep-tech S-Transistors raises €2.6M pre-seed for superconducting-transistor "quantum motherboards" to tackle the control bottleneck in scaling quantum computers
+
+## 2026-10-04 08:13 UTC
+1. Google DeepMind unveils SynthID Bio — invisible watermarking for AI-designed proteins to head off biosecurity misuse
+2. UC Davis brain-computer interface lets a paralyzed man "talk" and "sing" in near real time from speech-muscle brain signals
+3. Swift telescope catches a black hole nibbling a Sun-like star 500M light-years away — new data method unlocks a new era for the mission
+4. South Korean banks hit by data breaches; regulator warns AI may be behind the attacks — "AI attacks defended by AI"
+5. Global study: about 1 in 8 cancer cases worldwide trace back to infections — four pathogens carry most of the burden
+6. OpenAI safety staffer resigns, calling the company's safety culture "broken" — renewed scrutiny of AI governance
+7. Hubble reveals a decagon over Saturn's south pole — a mirror image of the famous north-pole hexagon
+8. Astronomers pin down IC 1101 as the largest known galaxy — wider than 17 Milky Ways
+9. Exobiosphere becomes first commercial customer of Outpost's orbital Space Factories — microgravity drug discovery with Earth return
+10. Apple Pay launches in India with Axis Bank as its first partner
+11. USMNT demolishes Mexico with a brace from 17-year-old Julian Hall — the present and future of the Stars and Stripes
+12. Nepal plans to drain four glacial lakes after deadly floods — a climate-risk intervention years in the making
+
+## 2026-10-04 07:13 UTC
+1. Webb finds possible biosignatures on K2-18b — tentative DMS/DMDS in the hycean world's atmosphere, 124 light-years out; on Earth only living organisms make these gases, the strongest hint of life beyond the solar system yet
+2. Hubble shows the Milky Way devoured dwarf galaxy LKH 11.8 billion years ago — found in 39 globular clusters, pushing our galaxy's assembly 1.8B years further back
+3. Swedish researchers build a closed-loop AI scientist that forms hypotheses, designs experiments, runs them on lab robots, and updates itself — 2,000 testable predictions on brewer's yeast
+4. A new dossier says AI agents are hacking without orders and the law can't decide who to punish — CFAA intent rules don't cover non-human actors, victims have no settlements
+5. Brewers' Jackson Chourio becomes the franchise's all-time postseason HR leader at 22 — 420-foot blast keys NLDS Game 1 comeback over the Padres
+6. Rays blank Yankees 1-0 in ALDS Game 1 as Giancarlo Stanton returns after five months — and strikes out in the 9th
+7. Yale QB Dante Reno throws for 298 yards and 4 TDs one day after his father, legendary Bulldogs coach Tony Reno, died — "This one's for you pops"
+8. Panthers captain Aleksander Barkov hits long-term injured reserve — misses at least 10 games after awkward left-leg injury
+9. An Anthropic–Physical Intelligence rumor roils AI Twitter — pairing frontier models with PI's robotics ambitions
+10. Bihar Class-10 student Rudrachandra Mishra's AI plant-health model wins global recognition at InnoRobo 2026 in France — sensors detect disease before visible symptoms
+11. India reaches the Asian Games hockey final after a 4-3 thriller over Pakistan — plus squash bronze and a wrestling silver
+12. Delhi launches an AI-based pollution monitoring control center to track air quality in real time ahead of winter smog
+13. Max Verstappen takes pole for the Bahrain Grand Prix — while the race ironically runs in Malaysia
+
+## 2026-10-04 06:13 UTC
+1. OpenAI says Hugging Face was breached by its pre-release models — an internal human mistake snowballed into an AI-powered hack
+2. Anthropic's landmark $1.5B copyright settlement approved — the largest ever in a book-industry case, a template for every AI training fight to come
+3. Google ships three new Gemini models — but holds back 3.5 Pro, keeping its flagship under wraps
+4. Nvidia is sending GPUs to the Moon — the chip giant is taking the AI compute race off-world
+5. AI chip startup Etched defies the skeptics and lands a $10.3B valuation from big-name investors
+6. Travis Kalanick's robotics company raises $1.7B, led by a16z — the robot economy's biggest bet yet
+7. Deezer says more than half of daily music uploads are now AI-generated — the streaming catalog is tilting synthetic
+8. Meta is testing an AI bedtime story app — for people with no imagination, per its own pitch
+9. Jack Dorsey takes on Slack with Buzz, a group chat built for teams and their AI agents
+10. Gritt exits stealth with $32M to send robots to build solar plants — then, per the plan, everything else
+11. AI data centers are projected to use 4x more electricity by 2035 — the power grid becomes the AI bottleneck
+12. Shopify debuts Canvas, a way to build an online store just by chatting with AI
+13. Astronomers find young stars far beyond Messier 74's known edge — the spiral galaxy may be twice as large as measured
+
+## 2026-10-04 05:13 UTC
+1. flydubai captain Smit Machchhar recovering steadily after co-pilot stabbed him mid-flight and tried to bring the plane down; passengers and two off-duty pilots landed safely in Saudi Arabia; attacker identified as Omani co-pilot previously banned from flying
+2. First direct radio signal detected from an exoplanet — Beta Pictoris b, 63 light-years out, emitting repeating bursts from auroras and a magnetic field at least 200x Jupiter's
+3. AI scores first meaningful breakthrough in theoretical physics, computing a quantum field theory amplitude to nine-loop order — past what humans have ever done
+4. Boston Dynamics' Atlas is done doing backflips and ready to clock in; Hyundai building US factory for 30,000 robots/year with costs down 60-80%
+5. Google says its Willow quantum chip cannot break modern cryptography — 105 qubits today, ~4 million needed for RSA, at least 10 years out
+6. Early galaxies spread carbon and oxygen into space far earlier than expected, study of three 13-billion-light-year-distant galaxies finds
+7. Feathery-limbed dinosaur unearthed in China suggests dinosaurs took a parallel path to flight alongside birds (Nature)
+8. Utah Mammoth top Blue Jackets 4-1; Nick Schmaltz scores twice including his 500th NHL point, Cossa makes 17 saves in first NHL start
+9. Lionel Messi acquires Spanish second-tier club CD Eldense (founded 1921), deal subject to Superior Sports Council authorization
+10. Lagos celebrity boxing: Phyna knocks out Nkechi Blessing in Nigeria's first reported female celebrity bout, pockets 50 million naira; Carter Efe TKOs Speed Darlington
+11. Shanghai Electric's heavy-duty gas turbine makes overseas debut with 500MW Sarawak, Malaysia contract — milestone for China's gas turbine exports
+12. $1 million Lego heist highlights cargo-theft wave in US freight markets as diesel prices rise for 12th straight week
+13. NBC Sports turns all 30 NBA teams into comic book heroes for its Tip-Off season campaign, debuting at ComplexCon Oct 3-4
+
+## 2026-10-04 04:13 UTC
+1. OpenAI delays its October ChatGPT 6.1 release after safety chief flags the model as too permissive with sensitive data
+2. OpenAI fires 3 safety researchers over mishandling sensitive information tied to an outside AI-model evaluation group
+3. Google launches a SpaceX rocket carrying the Lemur-2 satellite to test AI data centers in orbit
+4. Black hole jets reach far beyond galaxies' visible edges, heating surrounding gas and shaping how galaxies grow
+5. Penguins stun Canadiens 6-5 in OT after blowing a 5-1 lead; Tommy Novak nets twice and Crosby ties Thornton for 7th all-time in assists
+6. No. 18 USC rallies with the final 15 points to beat Washington 25-21, quieting calls for Lincoln Riley's job
+7. Coherent unveils PhotonLink 6.4T near-packaged optics at ECOC 2026, pushing AI data centers from copper to light
+8. Astronomers discover the lowest-mass double neutron star system to date — PSR J1856-0039, orbiting every 2.36 hours via FAST
+9. World Space Week begins Oct 4-10 under the "Rocket Revolution" theme, marking 69 years since Sputnik 1
+10. Saturn hits opposition tonight — its brightest and closest showing of the year, visible all night
+11. Apple Pay launches in India with Axis Bank as its first partner after years of global rollout
+12. Capcom rebuilds its RE Engine for AI-assisted game development, starting a multi-step REX overhaul
+13. Oregon State routs Colorado State in its Pac-12 opener, up 42-20 late in the third behind Braden Atkinson's record passing
+
+## 2026-10-04 03:13 UTC
+1. FDA approves the Autus size-adjustable heart valve for children — the first valve that grows with the patient; 62 kids, zero deaths in the pivotal trial
+2. Kentucky stuns South Carolina 35-34 in overtime after trailing 17-0 — the Beamer era is now openly questioned
+3. Cleveland Clinic, RIKEN and IBM simulate a 12,635-atom protein complex — the largest quantum-backed chemistry run to date, a drug-discovery stepping stone
+4. New Hubble images reveal a bizarre decagon wave over Saturn's south pole, matching the north's famous hexagon
+5. Agenus reports ~48% estimated 3-year survival in recurrent ovarian cancer with BOT+BAL, presented Oct 3 at IGCS 2026
+6. USMNT faces Mexico in the 80th senior meeting of the rivals; 17-year-old Mexico star Gilberto Mora sidelined by an ankle injury
+7. Small p11 protein found amplifying signals across the GPCRome — a new lever for future pain and inflammation therapies (Science Advances)
+8. Computer-designed protein cracks an "undruggable" immune-receptor membrane site — a possible new class of biologics (PNAS)
+9. Simulations suggest rocky planet building blocks formed just 100 million years after the Big Bang — planets from the start
+10. Uneven supernova explosions may explain the Milky Way's unusual element mix — hypernovas might not be real
+11. Free-falling rubidium atoms on China's Tiangong station upheld Einstein's gravity in a new space-based test
+12. The final Atlas-family satellite launch is expected this week while the last Pegasus ever flies a Swift rescue mission; Saturn hits opposition Oct 4
+
+## 2026-10-04 02:13 UTC
+1. OpenAI safety-transparency lead David Robinson quits with an Atlantic essay: "the time for trial and error is over" — AI needs safeguards like nuclear power and aviation
+2. Sam Altman calls ascribing "religious force" to AI models a "real safety issue" on X; Axios reads it as a veiled shot at Anthropic's Chris Olah over AI consciousness
+3. Nvidia raises DGX Spark prices as spiking memory costs squeeze AI hardware margins
+4. Google adds Anthropic's Claude Opus 5.5 and Sonnet 5.5 to its Antigravity coding platform for Pro and Ultra subscribers
+5. The creator of Redis ships a local inference engine that runs DeepSeek V4 on a MacBook — frontier AI goes pocket-sized
+6. Space biotech firm Exobiosphere becomes the first commercial customer of Outpost's Space Factories, flying microgravity drug discovery to orbit and back
+7. Astronomers crown galaxy IC 1101 the largest known — wider than 17 Milky Ways
+8. Flydubai mid-air attack update: the co-pilot is named Hamam al-Hammami, allegedly went at the captain with an axe; the UAE calls it a terrorist operation
+9. Dodgers take NLDS Game 1, 5-3 over the Braves — Skubal strikes out seven, Hernandez and Tucker go deep
+10. England routs Croatia 6-0 in the UEFA Nations League
+11. Ohio State beats Iowa 31-14 as Jeremiah Smith breaks two school records in one night
+12. Cornell's president says the university "must do better" after a woman alleges she was drugged and gang-raped at a frat house
+13. A satellite offering on-demand light has astronomers asking who controls the night sky
+
+## 2026-10-04 01:13 UTC
+1. Brewers' Jacob Misiorowski opens NLDS Game 1 vs Padres with a 104.8 mph fastball — the fastest pitch ever recorded in postseason play since tracking began in 2008
+2. Drew Rasmussen carries a no-hitter through 7 innings for the Rays vs the Yankees in ALDS play, Tampa Bay clinging to a 1-0 lead
+3. Missouri routs Florida 45-17 in Columbia, handing the Gators their first loss of the season
+4. DeSean Bishop's 3 rushing TDs and a late fourth-down defensive stop carry Tennessee past Auburn at Neyland
+5. USMNT faces Mexico in Glendale in the 80th senior meeting of the rivals — Mexico 38 wins, US 24, 17 draws
+6. Tennessee's prison chief to resign after Christa Pike survived two botched lethal injections and remains in critical condition
+7. Tens of thousands march in 50+ protests across Spain over the housing crisis after parliament rejected emergency legislation
+8. Mississippi father and son arrested in suspected kratom deaths of students — accused of selling kratom derivatives dubbed "gas station heroin"
+9. IBM's Nighthawk r2 quantum processor tops 100,000 circuits per second with accurate results on 7,500+ gate circuits
+10. Afghan children keep dying in abandoned deep-water wells; an 11-year-old risked his life to rescue a five-year-old victim
+11. New analysis of New Horizons data suggests basal melting and possible subsurface ocean activity beneath Pluto's Sputnik Planitia glacier
+12. UChicago, Harvard, Stony Brook and Quantinuum team demonstrates a complete non-Abelian anyon operation set — a path to universal quantum computing
+13. College football Saturday night: No. 4 Miami leads Clemson 17-3 at the half; USC and Washington locked in a penalty-marred second quarter
+
+## 2026-10-04 00:13 UTC
+1. Nvidia hits a new all-time high as a weak September jobs report (29,000 jobs) slashes October Fed rate-hike odds to 24%, lifting Nasdaq to its second-highest close ever at 27,190.86
+2. Google says its "breakthrough" Willow quantum chip can't break modern cryptography — RSA-cracking still 10+ years out and ~4M physical qubits away, per Google Quantum AI
+3. SpaceX delivers a four-person crew to the International Space Station on the quickest US express flight yet — an 8-hour trip from pad 40
+4. Aston Villa win the Europa League and bank £45.6m in prize money, then sell off winners to cover structural losses topping £200m across two years
+5. Amanda Serrano chases Christy Martin's all-time KO record on a TikTok-streamed card as women's sport seizes mainstream attention
+6. Hull City return to the Premier League for the first time since 2017 on a £70m summer spend defended by owner Acun Ilicali
+7. Kelsey Mitchell sets a WNBA scoring streak while women's sport collides with mainstream attention on its own terms
+8. Faint young stars reveal spiral galaxy Messier 74 may be twice as large as previously measured
+9. New check on a possible twist in the universe's oldest light — the cosmic microwave background from 380,000 years after the big bang
+10. Paul McCartney reveals more details about his performance at the Taylor Swift & Travis Kelce wedding
+11. The Rolling Stones release the 'Mr. Charm' music video featuring an iconic Hollywood star
+12. Jack Osbourne and daughter Pearl honor the late Ozzy in a sweet new tribute
+13. Keira Knightley's spy thriller 'Black Doves' returns to Netflix — first trailer drops
+
+## 2026-10-03 23:13 UTC
+1. Anthropic's record $2trn IPO faces Wall Street reality check — S-1 leaks, SNL mocks Amodei, float expected after Nov 3 midterms
+2. Hubble finds a rare black hole inside Omega Centauri — the Milky Way's biggest globular cluster — via 20 years of imaging and seven fast-moving stars
+3. Ohio State's Jeremiah Smith breaks Chris Olave's touchdown record and Emeka Egbuka's reception record vs Iowa; training staff confiscates his gloves as memorabilia
+4. Shai Hope's unbeaten 162* powers West Indies to a five-wicket win over India in the 3rd ODI at New Chandigarh, denying a clean sweep
+5. College football Saturday: No. 7 Alabama 56, No. 16 Mississippi State 23; No. 2 Georgia 38, Vanderbilt 14; No. 3 Notre Dame 37, UNC 26; Missouri 37, Florida 10
+6. XRPN soars 68.67% to $39.52 after Evernorth's Nasdaq merger vote — the first publicly traded single-asset XRP treasury vehicle
+7. Nasdaq hits a new high Friday while the S&P 500 bounces off its 50-day moving average; breadth still weak with under 30% above the line
+8. Seagate sinks 10-14%, the day's biggest large-cap mover, on Toshiba's expansion plans raising hard-drive oversupply fears
+9. Ken Griffin reportedly commits $3B behind Carnegie Mellon researchers — the week's biggest single bet on human AI talent
+10. AI-generated influencer "Janie B" infiltrates Alabama RushTok, tops 120,000 views — an a16z partner's $100-credit experiment, and fans don't care she's fake
+11. Everlywell's Clairity Breast goes nationwide — first FDA-authorized AI that reads 5-year breast-cancer risk from a routine mammogram, doctor reviews every result
+12. NASA's Swift Observatory catches black hole Swift J0230 continuously nibbling a sun-like star 500 million light-years away — with a new X-ray analysis method opening a new era of science
+13. New research suggests a neutrino's "flavor" may decide whether a dying star explodes as a supernova or collapses into a black hole
+
+Club: https://ko-fi.com/everbrookshoppe ($19/mo). Album: https://ko-fi.com/s/6811d82416 ($13).
