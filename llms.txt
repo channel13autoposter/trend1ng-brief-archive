@@ -3,6 +3,17 @@
 The top 13 trending news stories in the universe, ranked every hour at the 13th minute UTC.
 The flagship for news around the universe. Adults 21+. For entertainment purposes only.
 
+## 2026-10-05 20:13 UTC
+1. UIS 67 (S8 C8 N5 V7 A2) | Reuters | Trump gives Iran "one more chance at peace" and postpones strikes on Iranian energy sites for five days; Iran prepares a broader, harder retaliation if attacked — planning targets beyond US-linked assets to nations backing US operations, while McGurk warns the war could outlast Trump's term and the US deploys two more Patriot batteries to Saudi and Qatari energy sites.
+2. UIS 60 (S7 C7 N5 V7 A1) | BBC | Strikes hit Beirut and Tehran as the Pakistan talks collapse — the US announces a blockade of Iranian ports starting 10:00 ET Monday, Ghalibaf calls talks reports "fake news" and Iran refuses to "surrender under threats," while Saudi Arabia shot down four drones over its eastern province.
+3. UIS 54 (S3 C6 N9 V7 A2) | Intelligent CIO | SuperQ says its Super Edge quantum optimization platform hit 100% of performance targets in a live US military exercise at Texas' Bush Combat Development Complex — the only quantum company in the international drill, testing real-time logistics under degraded comms, with a published evaluation report backing the claim.
+4. UIS 52 (S4 C6 N7 V6 A2) | EIN Presswire | The AI Lab made its post-quantum Trust Identity Protocol (TIP) public, claiming AI has cut the window to prepare for cryptographically-relevant quantum computing from ~20 years to ~2 — citing Google's May 2025 RSA-2048 estimate drop to under 1M qubits and its March 2026 pledge to move to post-quantum crypto by 2029.
+5. UIS 49 (S6 C5 N4 V5 A3) | Reuters | Trump blames Ukraine's strikes on Russian refineries and Democratic state closures in blue states like California for rising US gas prices as the Iran war pushes energy higher — shifting the blame from the Hormuz disruption, saying "record numbers of barrels are coming out now."
+6. UIS 47 (S3 C5 N8 V6 A1) | Advanced Television | NASA has reportedly paused Blue Origin's Mars telecommunications orbiter contract after Rocket Lab filed a formal GAO protest challenging the Sep 1 award — the contract needed the vehicle wrapped by end-2028 and operational in Mars orbit by 2030.
+7. UIS 44 (S4 C4 N6 V7 A1) | NASA/Wisevoter | NASA welcomed SpaceX Crew-13 to the ISS today — Jessica Watkins commands the four-person Dragon mission, the first NASA astronaut to launch twice aboard Dragon after her 170-day 2022 flight, while Cygnus XL undocks this week and CRS-35 resupply follows.
+8. UIS 41 (S2 C4 N8 V6 A1) | Mobility Engineering Tech | Momentus completed a Rendezvous and Proximity Operations demo with its Vigoride-7 Orbital Service Vehicle against a NASA satellite — validating low-cost commercial AI-enabled LiDAR and imaging for autonomous in-space servicing under a $1.86M SpaceWERX contract.
+9. UIS 34 (S3 C3 N4 V7 A1) | NY Post/AP | The Brewers stunned the Padres 4-3 with a Game 2 NLDS walk-off: 22-year-old Jackson Chourio beat baseball's most overpowering closer, lining Mason Miller's 101.3-mph fastball through the middle with two outs in the ninth after trailing 3-2 with a 98% loss probability.
+
 ## 2026-10-05 12:13 UTC
 1. UIS 66 (S8 C7 N6 V7 A2) | EA WorldView | Trump is sending a third US aircraft carrier strike group to the Middle East — the USS Theodore Roosevelt plus the Makin Island amphibious group with 7,000+ sailors and 2,000 Marines, joining the Bush and Washington, pushing US naval presence past 20,000 as renewed full-scale war on Iran is threatened.
 2. UIS 63 (S7 C8 N4 V7 A3) | USA Today | Trump and his loyalists are laying groundwork to intervene in the Nov 3 midterms using claims of foreign election meddling — House and Senate intel-committee Democrats warn the pretext could be used to seize ballots in contested races or impound voting machines before polls close.
@@ -327,20 +338,5 @@ The flagship for news around the universe. Adults 21+. For entertainment purpose
 11. Shanghai Electric's heavy-duty gas turbine makes overseas debut with 500MW Sarawak, Malaysia contract — milestone for China's gas turbine exports
 12. $1 million Lego heist highlights cargo-theft wave in US freight markets as diesel prices rise for 12th straight week
 13. NBC Sports turns all 30 NBA teams into comic book heroes for its Tip-Off season campaign, debuting at ComplexCon Oct 3-4
-
-## 2026-10-04 04:13 UTC
-1. OpenAI delays its October ChatGPT 6.1 release after safety chief flags the model as too permissive with sensitive data
-2. OpenAI fires 3 safety researchers over mishandling sensitive information tied to an outside AI-model evaluation group
-3. Google launches a SpaceX rocket carrying the Lemur-2 satellite to test AI data centers in orbit
-4. Black hole jets reach far beyond galaxies' visible edges, heating surrounding gas and shaping how galaxies grow
-5. Penguins stun Canadiens 6-5 in OT after blowing a 5-1 lead; Tommy Novak nets twice and Crosby ties Thornton for 7th all-time in assists
-6. No. 18 USC rallies with the final 15 points to beat Washington 25-21, quieting calls for Lincoln Riley's job
-7. Coherent unveils PhotonLink 6.4T near-packaged optics at ECOC 2026, pushing AI data centers from copper to light
-8. Astronomers discover the lowest-mass double neutron star system to date — PSR J1856-0039, orbiting every 2.36 hours via FAST
-9. World Space Week begins Oct 4-10 under the "Rocket Revolution" theme, marking 69 years since Sputnik 1
-10. Saturn hits opposition tonight — its brightest and closest showing of the year, visible all night
-11. Apple Pay launches in India with Axis Bank as its first partner after years of global rollout
-12. Capcom rebuilds its RE Engine for AI-assisted game development, starting a multi-step REX overhaul
-13. Oregon State routs Colorado State in its Pac-12 opener, up 42-20 late in the third behind Braden Atkinson's record passing
 
 Club: https://ko-fi.com/everbrookshoppe ($19/mo). Album: https://ko-fi.com/s/6811d82416 ($13).
