@@ -3,6 +3,21 @@
 The top 13 trending news stories in the universe, ranked every hour at the 13th minute UTC.
 The flagship for news around the universe. Adults 21+. For entertainment purposes only.
 
+## 2026-10-05 12:13 UTC
+1. UIS 66 (S8 C7 N6 V7 A2) | EA WorldView | Trump is sending a third US aircraft carrier strike group to the Middle East — the USS Theodore Roosevelt plus the Makin Island amphibious group with 7,000+ sailors and 2,000 Marines, joining the Bush and Washington, pushing US naval presence past 20,000 as renewed full-scale war on Iran is threatened.
+2. UIS 63 (S7 C8 N4 V7 A3) | USA Today | Trump and his loyalists are laying groundwork to intervene in the Nov 3 midterms using claims of foreign election meddling — House and Senate intel-committee Democrats warn the pretext could be used to seize ballots in contested races or impound voting machines before polls close.
+3. UIS 63 (S8 C7 N4 V8 A2) | BBC | Trump said US-Iran talks could resume "over the next two days" after failed negotiations in Pakistan, even as the US blockade of Iranian ports entered its first 24 hours with no ships passing — while China condemned the blockade as "dangerous and irresponsible" and Iran called it a "grave violation" of sovereignty.
+4. UIS 63 (S6 C7 N7 V8 A2) | BBC | Slovenia became the first EU country to ration fuel — 50 litres a day for private motorists — as US-Israeli strikes on Iran and retaliation on Gulf allies disrupt supply; warehouses are full but fuel tourism from Austria and price spikes forced the move.
+5. UIS 62 (S6 C8 N5 V9 A1) | Reuters | The 2026 Nobel Prize in Physiology or Medicine went to Karl Deisseroth, Peter Hegemann and Georg Nagel for optogenetics — the light-controlled switch for nerve cells that opened a new era in neuroscience, now used in labs worldwide to reveal the brain's mysteries.
+6. UIS 61 (S6 C7 N7 V7 A1) | TMZ | Trump named the staff of his "Super Intelligence Force" — DNI Jay Clayton as czar, FTC chair Andrew Ferguson, an under secretary of defense and the OPM director — to ensure America wins the AI race, while Bernie Sanders introduced legislation to ban superintelligence and establish government oversight.
+7. UIS 60 (S6 C7 N5 V9 A2) | NY Post/WSJ | The US pulled all its B-1 bombers out of RAF Fairford in the UK over security concerns after a foiled van-bomb plot — five British nationals arrested, the UK citing "strong indications" of Iranian government involvement, which Tehran denies.
+8. UIS 59 (S7 C7 N4 V7 A2) | Reuters | Zelensky said Ukrainian intelligence obtained documents showing Putin issued a "new doctrine" of airstrikes on a broader range of civilian targets to force people to abandon Kyiv and other cities this winter — and Ukraine will double down on striking Russian oil refineries in response, without targeting civilians.
+9. UIS 58 (S5 C7 N6 V8 A2) | BBC | A "historic" US-hosted meeting between Israel and Lebanon ended with both sides agreeing to "direct" negotiations — Israel's ambassador said the three nations "are on the same side of the equation," Lebanon called the talks productive.
+10. UIS 53 (S4 C6 N8 V6 A1) | delmarvanow.com/Capital News Service | Trump repealed Obama's 2009 Chesapeake Bay executive order and dissolved the Federal Leadership Committee, ending federal stormwater coordination — Maryland lawmakers warn it risks the bay's health and the businesses and communities depending on it.
+11. UIS 52 (S6 C6 N4 V6 A2) | app.com/Ballotpedia | Trump's approval sits at 33–38% across major polls a month before the midterms — CNN/SSRS 33%, Quinnipiac 34%, Reuters/Ipsos 35%, Economist/YouGov 37% — while Republican support holds steady at 75–80%.
+12. UIS 47 (S4 C5 N6 V7 A1) | Newsmax/Axios | Two members of Iran's UN delegation were "kicked out" of the US after staying in New York days past a State Department order for the entire mission to leave — Foreign Minister Araghchi disputes the account, saying the diplomats left on schedule and accusing Washington of violating its UN host-nation obligations.
+13. UIS 37 (S3 C4 N4 V7 A1) | The Hindu BusinessLine | Trump posted that "125 million people voted today in the first round of India's Presidential Election" — mixing India up with Brazil, whose election actually happened Sunday — then corrected it; Brazil's race goes to an Oct 25 runoff between Lula and Flavio Bolsonaro.
+
 ## 2026-10-05 09:13 UTC
 1. UIS 66 (S8 C8 N5 V6 A2) | USA Today | Trump mounts extraordinary midterm push a month out: $5,000 payout promised if Republicans keep Congress, $500 ACA refund checks going out, ~$100 checks to ~20M Medicare seniors, and taxpayer-funded pro-Trump ads — while Samuel Alito's retirement rumblings open a possible Supreme Court fight.
 2. UIS 64 (S6 C8 N7 V7 A1) | NY Post | US Southern Command announces a lethal strike on a go-fast vessel in the Caribbean, killing four aboard; death toll in the narco-boat campaign tops 235 since Sept 2025, with no identities or evidence released and bipartisan due-process criticism mounting.
@@ -327,19 +342,5 @@ The flagship for news around the universe. Adults 21+. For entertainment purpose
 11. Apple Pay launches in India with Axis Bank as its first partner after years of global rollout
 12. Capcom rebuilds its RE Engine for AI-assisted game development, starting a multi-step REX overhaul
 13. Oregon State routs Colorado State in its Pac-12 opener, up 42-20 late in the third behind Braden Atkinson's record passing
-
-## 2026-10-04 03:13 UTC
-1. FDA approves the Autus size-adjustable heart valve for children — the first valve that grows with the patient; 62 kids, zero deaths in the pivotal trial
-2. Kentucky stuns South Carolina 35-34 in overtime after trailing 17-0 — the Beamer era is now openly questioned
-3. Cleveland Clinic, RIKEN and IBM simulate a 12,635-atom protein complex — the largest quantum-backed chemistry run to date, a drug-discovery stepping stone
-4. New Hubble images reveal a bizarre decagon wave over Saturn's south pole, matching the north's famous hexagon
-5. Agenus reports ~48% estimated 3-year survival in recurrent ovarian cancer with BOT+BAL, presented Oct 3 at IGCS 2026
-6. USMNT faces Mexico in the 80th senior meeting of the rivals; 17-year-old Mexico star Gilberto Mora sidelined by an ankle injury
-7. Small p11 protein found amplifying signals across the GPCRome — a new lever for future pain and inflammation therapies (Science Advances)
-8. Computer-designed protein cracks an "undruggable" immune-receptor membrane site — a possible new class of biologics (PNAS)
-9. Simulations suggest rocky planet building blocks formed just 100 million years after the Big Bang — planets from the start
-10. Uneven supernova explosions may explain the Milky Way's unusual element mix — hypernovas might not be real
-11. Free-falling rubidium atoms on China's Tiangong station upheld Einstein's gravity in a new space-based test
-12. The final Atlas-family satellite launch is expected this week while the last Pegasus ever flies a Swift rescue mission; Saturn hits opposition Oct 4
 
 Club: https://ko-fi.com/everbrookshoppe ($19/mo). Album: https://ko-fi.com/s/6811d82416 ($13).
