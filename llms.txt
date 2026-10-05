@@ -3,6 +3,27 @@
 The top 13 trending news stories in the universe, ranked every hour at the 13th minute UTC.
 The flagship for news around the universe. Adults 21+. For entertainment purposes only.
 
+## 2026-10-05 05:13 UTC
+1. UIS 65 (S8 C7 N6 V7 A1) | US News Network/The Times | Iran launches a new missile and drone barrage on Bahrain and Kuwait after fresh US airstrikes; the IRGC threatens a "complete halt" to peace talks — while Trump rejects Iran's seven-day Hormuz ceasefire plan as inadequate yet tells Axios he expects talks to resume this week.
+2. UIS 64 (S5 C7 N9 V9 A1) | Nature (via RocketNews) | Quantum vacuum fluctuations strengthen superconductivity: USTC, Shanghai Jiao Tong and MIT (incl. Frank Wilczek) show a terahertz dark cavity lifting NbSe2's critical temperature up to 5.4%, with a resonance peak proving the effect comes from coupling to the cavity's electromagnetic modes — a new control knob for superconducting matter.
+3. UIS 58 (S8 C6 N4 V5 A3) | Reuters | Global markets open the week on edge: the euro sinks to a 17-month low on French fiscal fears while the dollar nears a 17-month high; Friday's soft US jobs data (29k jobs vs ~90k expected, unemployment 4.2%, prior months revised down) slashes October Fed hike odds from 64% to 22% — the Nasdaq still closed at a record 27,190, the US 10-year sits at 5.262% after touching a 24-year high, and Japan's 30-year bond yield hits a record ahead of Takaichi's remarks.
+4. UIS 54 (S4 C6 N8 V8 A1) | NatureWorldNews | A University of Vienna-led team reports a light-based programmable quantum processor ran for eight months in low Earth orbit, showing two-photon quantum interference in space — a first for quantum hardware in orbit, though the results are an un-peer-reviewed arXiv preprint and only three of six detectors survived the mission.
+
+## 2026-10-05 03:13 UTC
+1. UIS 70 (S7 C7 N9 V9 A1) | Starts With a Bang | An LLM just out-computed every human on a quantum field theory calculation — AI's first meaningful breakthrough in theoretical physics, pushing a loop-order result past what humans, even with computers, had ever reached.
+2. UIS 69 (S9 C8 N4 V8 A2) | WSJ/CNN | Flavio Bolsonaro stuns Brazil, beating Lula ~47.3% to ~44.8% in the first round with ~98% counted — the polls missed it, conservatives swept congress and statehouses, and the Oct 25 runoff looms; since 1989 every first-round winner has won the runoff.
+3. UIS 63 (S8 C7 N5 V6 A2) | WSJ/Reuters | Hormuz crisis deepens: seven shipping strikes around the strait since Sept 28 plus one on Sunday, with IRGC radio warnings ordering tankers off the US-backed corridor — while Tehran says the strait stays shut until seven conditions are met and Trump rejects its ceasefire offer, claiming record oil flows.
+4. UIS 63 (S7 C6 N8 V6 A2) | PR Newswire/Int. Journal of Cardiology | Simplex Quantum and the University of Tokyo unveil an AI heart-failure monitor — 91.6% severity accuracy from a single-lead ECG (Apple Watch class) on 9,518 patients, with an on-demand HF-index aimed at cutting hospitalizations through earlier intervention.
+5. UIS 60 (S6 C6 N8 V7 A1) | BBC/Al Arabiya | Yemen's government announces a military campaign to reclaim all territory from the Iran-backed Houthis — the first full offensive of the war era, with Red Sea shipping and the regional proxy map at stake.
+6. UIS 59 (S6 C6 N7 V8 A1) | AP | Estonia blames Russia for an arson attack on a defense company that builds vehicles for Ukraine — a direct hybrid-warfare accusation inside a NATO state that raises escalation stakes.
+7. UIS 53 (S6 C5 N6 V7 A1) | Reuters | Iran's oil minister resigns with no reason given amid the US blockade on oil exports — a crack in Tehran's economic war management as sanctions bite.
+8. UIS 48 (S5 C5 N6 V5 A1) | AP | The wounded FlyDubai captain recounts the cockpit fight: after being stabbed by his co-pilot, he regained control to save the passengers — a first-hand account from the foiled hijacking of an Israel-bound flight, as Australia probes the co-pilot's past.
+9. UIS 48 (S4 C5 N6 V8 A1) | AP | Tennessee is set to execute a woman for the first time in 200 years — a historic death-penalty milestone for the state.
+10. UIS 45 (S3 C5 N6 V8 A1) | SkimNews | A jury ordered the New York Times to pay $9.25M for defaming an Alabama basketball player, ending the paper's 50-plus-year win streak in US defamation cases — a landmark press-law verdict.
+11. UIS 45 (S4 C4 N7 V6 A1) | news-usa.today | Philippine authorities arrested 244 foreign nationals, mostly Chinese, in simultaneous Oct 2 raids — the year's largest crackdown on illegal offshore gaming operators in Zamboanga Sibugay.
+12. UIS 37 (S3 C4 N5 V5 A1) | AP | Former GOP Rep. David Rivera sentenced to 10 years in prison for secret Venezuela lobbying — foreign-agent enforcement reaches Congress.
+13. UIS 34 (S3 C3 N4 V7 A1) | AP | Expansion Golden State Valkyries stun the champion Aces 71-60 in WNBA semifinal Game 1 at a sold-out Chase Center — Gabby Williams' 25 points, and Las Vegas loses Jewell Loyd to a leg injury.
+
 ## 2026-10-05 01:13 UTC
 1. Max Verstappen takes his first win of 2026 at the rain-chaos Bahrain GP in Malaysia; Russell's late DNF stretches Antonelli's title lead to 84; Hamilton climbs from 18th to 3rd
 2. Coast Guard finds debris from a Bermuda-to-Boston medevac jet off Nantucket; search for the six aboard (four Canadians, two Bermudians) enters its second day
@@ -324,35 +345,5 @@ The flagship for news around the universe. Adults 21+. For entertainment purpose
 11. New analysis of New Horizons data suggests basal melting and possible subsurface ocean activity beneath Pluto's Sputnik Planitia glacier
 12. UChicago, Harvard, Stony Brook and Quantinuum team demonstrates a complete non-Abelian anyon operation set — a path to universal quantum computing
 13. College football Saturday night: No. 4 Miami leads Clemson 17-3 at the half; USC and Washington locked in a penalty-marred second quarter
-
-## 2026-10-04 00:13 UTC
-1. Nvidia hits a new all-time high as a weak September jobs report (29,000 jobs) slashes October Fed rate-hike odds to 24%, lifting Nasdaq to its second-highest close ever at 27,190.86
-2. Google says its "breakthrough" Willow quantum chip can't break modern cryptography — RSA-cracking still 10+ years out and ~4M physical qubits away, per Google Quantum AI
-3. SpaceX delivers a four-person crew to the International Space Station on the quickest US express flight yet — an 8-hour trip from pad 40
-4. Aston Villa win the Europa League and bank £45.6m in prize money, then sell off winners to cover structural losses topping £200m across two years
-5. Amanda Serrano chases Christy Martin's all-time KO record on a TikTok-streamed card as women's sport seizes mainstream attention
-6. Hull City return to the Premier League for the first time since 2017 on a £70m summer spend defended by owner Acun Ilicali
-7. Kelsey Mitchell sets a WNBA scoring streak while women's sport collides with mainstream attention on its own terms
-8. Faint young stars reveal spiral galaxy Messier 74 may be twice as large as previously measured
-9. New check on a possible twist in the universe's oldest light — the cosmic microwave background from 380,000 years after the big bang
-10. Paul McCartney reveals more details about his performance at the Taylor Swift & Travis Kelce wedding
-11. The Rolling Stones release the 'Mr. Charm' music video featuring an iconic Hollywood star
-12. Jack Osbourne and daughter Pearl honor the late Ozzy in a sweet new tribute
-13. Keira Knightley's spy thriller 'Black Doves' returns to Netflix — first trailer drops
-
-## 2026-10-03 23:13 UTC
-1. Anthropic's record $2trn IPO faces Wall Street reality check — S-1 leaks, SNL mocks Amodei, float expected after Nov 3 midterms
-2. Hubble finds a rare black hole inside Omega Centauri — the Milky Way's biggest globular cluster — via 20 years of imaging and seven fast-moving stars
-3. Ohio State's Jeremiah Smith breaks Chris Olave's touchdown record and Emeka Egbuka's reception record vs Iowa; training staff confiscates his gloves as memorabilia
-4. Shai Hope's unbeaten 162* powers West Indies to a five-wicket win over India in the 3rd ODI at New Chandigarh, denying a clean sweep
-5. College football Saturday: No. 7 Alabama 56, No. 16 Mississippi State 23; No. 2 Georgia 38, Vanderbilt 14; No. 3 Notre Dame 37, UNC 26; Missouri 37, Florida 10
-6. XRPN soars 68.67% to $39.52 after Evernorth's Nasdaq merger vote — the first publicly traded single-asset XRP treasury vehicle
-7. Nasdaq hits a new high Friday while the S&P 500 bounces off its 50-day moving average; breadth still weak with under 30% above the line
-8. Seagate sinks 10-14%, the day's biggest large-cap mover, on Toshiba's expansion plans raising hard-drive oversupply fears
-9. Ken Griffin reportedly commits $3B behind Carnegie Mellon researchers — the week's biggest single bet on human AI talent
-10. AI-generated influencer "Janie B" infiltrates Alabama RushTok, tops 120,000 views — an a16z partner's $100-credit experiment, and fans don't care she's fake
-11. Everlywell's Clairity Breast goes nationwide — first FDA-authorized AI that reads 5-year breast-cancer risk from a routine mammogram, doctor reviews every result
-12. NASA's Swift Observatory catches black hole Swift J0230 continuously nibbling a sun-like star 500 million light-years away — with a new X-ray analysis method opening a new era of science
-13. New research suggests a neutrino's "flavor" may decide whether a dying star explodes as a supernova or collapses into a black hole
 
 Club: https://ko-fi.com/everbrookshoppe ($19/mo). Album: https://ko-fi.com/s/6811d82416 ($13).
