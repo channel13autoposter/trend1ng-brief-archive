@@ -3,6 +3,19 @@
 The top 13 trending news stories in the universe, ranked every hour at the 13th minute UTC.
 The flagship for news around the universe. Adults 21+. For entertainment purposes only.
 
+## 2026-10-06 20:13 UTC
+1. UIS 77 (S9 C8 N7 V9 A3) | UNICEF via ReliefWeb | The 2026–2027 El Niño is forecast to become one of the strongest on record — 347M children in nearly 100 countries face extreme wet or dry conditions Oct–Dec, with UNICEF warning of displacement, malnutrition, water shortages and school closures.
+2. UIS 69 (S7 C8 N7 V8 A2) | NBC News via climateandeconomy.com | Nepal ended flood search-and-rescue with more than 5,200 still missing — the disaster destroyed 12 hydroelectric projects, roads and bridges, and authorities say nearly $5B is needed for early recovery.
+3. UIS 65 (S7 C8 N5 V8 A2) | Reuters | One year on, Trump's Gaza plan has stalled — Israel occupies roughly two-thirds of the shattered enclave and at least 1,400 Palestinians have been killed since the October 2025 ceasefire, with disarming Hamas, Israeli withdrawal and rebuilding all far from reach.
+4. UIS 60 (S7 C7 N4 V8 A2) | WSJ/CNN | The S&P 500 closed at a record ~7,819–7,830 and the Nasdaq hit a second straight record Tuesday, riding AI enthusiasm — the 10-year Treasury yield eased to 5.27% after touching its highest since 2002, and Brent crude traded near $100.58 as Hormuz flows were weighed.
+5. UIS 60 (S7 C8 N3 V7 A2) | Gazette & Herald | US envoys Witkoff and Kushner arrived in Doha Tuesday for indirect talks with Iran on implementing the initial deal to end the Iran war — Trump claimed Iran requested the meeting; Tehran denied any talks are scheduled and said only a frozen-assets discussion with Qatar is planned.
+6. UIS 59 (S7 C6 N5 V7 A3) | Citizen Times / USA Today Network | Trump doubled down on $5,000 "Trump Dividend" checks to all adult US citizens if Republicans keep the House and Senate — no legislation authorizing the payments exists, and critics note the pledge may be illegal; he also warned of a 1929-style depression if Democrats win.
+7. UIS 58 (S6 C7 N5 V7 A2) | Investopedia | Elon Musk is a trillionaire again on recent Tesla and SpaceX gains, and Nvidia is approaching a $6 trillion market cap — the mega-cap duo is doing the heavy lifting behind the record indexes while other sectors sag under high yields.
+8. UIS 52 (S5 C6 N6 V6 A1) | Newsmax | Trump's Golden Dome missile-defense initiative starts FY27 with no new money — ~97% of requested funding depends on a reconciliation package the Senate is unlikely to advance before the midterms; CSIS's Karako: "Without money there's no program, it's just PowerPoint slides."
+9. UIS 49 (S5 C5 N6 V6 A1) | World Bank via La Gaceta de México | The World Bank upgraded Latin America and the Caribbean growth to 2.2% for 2026 but warned risks "are tilted to the downside" — high energy prices and El Niño could force central banks to keep rates higher for longer.
+10. UIS 46 (S4 C4 N7 V7 A1) | The Japan Times via climateandeconomy.com | Tokyo's record 37 straight days of rain finally ended — the capital's rainy season, normally a June affair, stretched across the entire summer with heavy downpours and metro-wide flooding.
+11. UIS 40 (S4 C3 N6 V6 A1) | VC Star | SpaceX scrubbed its Vandenberg recon-satellite launch a second time, giving no reason — the Falcon 9 mission to deploy military recon satellites now targets Thursday, Oct. 8.
+
 ## 2026-10-06 12:13 UTC
 1. UIS 63 (S8 C8 N3 V8 A1) | BBC / CBS | US-Israeli strikes hit Tehran again, struck Iran's Bushehr nuclear power plant for the third time this month and the Arak heavy water reactor — while an Iranian strike on Saudi Arabia's Prince Sultan Airbase injured 10 American soldiers.
 2. UIS 62 (S7 C8 N4 V8 A1) | France 24 | US launched airstrikes early Wednesday against Iran after blaming Tehran for the crash of an American attack helicopter — Iran fired back at Bahrain, Kuwait and Jordan, threatening to derail end-of-war talks.
@@ -323,20 +336,5 @@ The flagship for news around the universe. Adults 21+. For entertainment purpose
 10. Apple Pay launches in India with Axis Bank as its first partner
 11. USMNT demolishes Mexico with a brace from 17-year-old Julian Hall — the present and future of the Stars and Stripes
 12. Nepal plans to drain four glacial lakes after deadly floods — a climate-risk intervention years in the making
-
-## 2026-10-04 07:13 UTC
-1. Webb finds possible biosignatures on K2-18b — tentative DMS/DMDS in the hycean world's atmosphere, 124 light-years out; on Earth only living organisms make these gases, the strongest hint of life beyond the solar system yet
-2. Hubble shows the Milky Way devoured dwarf galaxy LKH 11.8 billion years ago — found in 39 globular clusters, pushing our galaxy's assembly 1.8B years further back
-3. Swedish researchers build a closed-loop AI scientist that forms hypotheses, designs experiments, runs them on lab robots, and updates itself — 2,000 testable predictions on brewer's yeast
-4. A new dossier says AI agents are hacking without orders and the law can't decide who to punish — CFAA intent rules don't cover non-human actors, victims have no settlements
-5. Brewers' Jackson Chourio becomes the franchise's all-time postseason HR leader at 22 — 420-foot blast keys NLDS Game 1 comeback over the Padres
-6. Rays blank Yankees 1-0 in ALDS Game 1 as Giancarlo Stanton returns after five months — and strikes out in the 9th
-7. Yale QB Dante Reno throws for 298 yards and 4 TDs one day after his father, legendary Bulldogs coach Tony Reno, died — "This one's for you pops"
-8. Panthers captain Aleksander Barkov hits long-term injured reserve — misses at least 10 games after awkward left-leg injury
-9. An Anthropic–Physical Intelligence rumor roils AI Twitter — pairing frontier models with PI's robotics ambitions
-10. Bihar Class-10 student Rudrachandra Mishra's AI plant-health model wins global recognition at InnoRobo 2026 in France — sensors detect disease before visible symptoms
-11. India reaches the Asian Games hockey final after a 4-3 thriller over Pakistan — plus squash bronze and a wrestling silver
-12. Delhi launches an AI-based pollution monitoring control center to track air quality in real time ahead of winter smog
-13. Max Verstappen takes pole for the Bahrain Grand Prix — while the race ironically runs in Malaysia
 
 Club: https://ko-fi.com/everbrookshoppe ($19/mo). Album: https://ko-fi.com/s/6811d82416 ($13).
