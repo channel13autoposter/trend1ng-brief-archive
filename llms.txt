@@ -3,6 +3,21 @@
 The top 13 trending news stories in the universe, ranked every hour at the 13th minute UTC.
 The flagship for news around the universe. Adults 21+. For entertainment purposes only.
 
+## 2026-10-07 04:13 UTC
+1. UIS 66 (S8 C8 N4 V8 A2) | Reuters / CBS News | US-Israeli strikes hit Iran's Khondab heavy-water complex and the Ardakan Yellowcake production plant — Tehran says no radioactive material released — as Rubio expects the war to end "in weeks, not months" and CBS reports Iran answers the 15-point US peace deal today.
+2. UIS 62 (S5 C7 N8 V8 A2) | Reuters | Germany arrested 80-year-old ex-BND chief August Hanning on suspicion of treasonous espionage, selling ~2,000 classified documents via a former aide since 2010; Der Spiegel points at Azerbaijan as the likely buyer.
+3. UIS 55 (S6 C7 N4 V7 A1) | Reuters | Houthi attacks struck Saudi Arabia's Jazan and Najran airports Monday evening, widening the Iran-backed front against the kingdom.
+4. UIS 54 (S6 C6 N5 V7 A1) | Kuwait Ports Authority via meleleh.pages.dev | Kuwait's main commercial port Shuwaikh was attacked this morning, a new target in the Gulf fighting.
+5. UIS 54 (S7 C6 N3 V7 A2) | Reuters | A Gulf of Mexico storm is expected to become the season's first Atlantic hurricane within two days, in the path of 15% of US crude output and six refineries; Brent rose to $101.51.
+6. UIS 52 (S5 C6 N6 V6 A1) | Reuters | Nationwide student protests peaked across France Tuesday — tear gas and water cannon in major cities — with the PM calling it the worst student unrest in decades.
+7. UIS 51 (S4 C5 N8 V6 A2) | 1News (NZ) | Strava fitness data exposed the movements and daily routines of 565 New Zealand Defence Force personnel across New Zealand and 13 countries.
+8. UIS 48 (S5 C5 N5 V6 A2) | Newsmax / Reuters | Trump is mulling suspending the federal gas tax as fuel prices surge ahead of the Nov 3 midterms; his approval sits at 32%, tied for a career low.
+9. UIS 48 (S5 C5 N6 V5 A1) | PRNewswire / FNArena | SQC's Watermelon — the world's first commercial quantum reservoir computer, claimed to cut AI training from weeks to days — landed on Fast Company's 2026 Next Big Things in Tech list.
+10. UIS 44 (S5 C5 N4 V5 A1) | WSJ | The S&P 500 closed at another record — its 28th of 2026 — on AI momentum while gold hit $4,159/oz and the 10-year yield eased off a 24-year high.
+11. UIS 42 (S3 C4 N7 V6 A1) | AP | Colombia sentenced 11 ELN rebel leaders in absentia for recruiting 60 children between 2004 and 2018.
+12. UIS 40 (S3 C4 N6 V6 A1) | Desert Sun / NASA | NASA's Crew-12 undocks from the ISS today, with splashdown off California Thursday morning.
+13. UIS 39 (S4 C5 N3 V4 A2) | Reuters | France's bond selloff eased after Marine Le Pen pledged spending cuts; the OAT-Bund spread narrowed from ~160bp to 132bp.
+
 ## 2026-10-06 20:13 UTC
 1. UIS 77 (S9 C8 N7 V9 A3) | UNICEF via ReliefWeb | The 2026–2027 El Niño is forecast to become one of the strongest on record — 347M children in nearly 100 countries face extreme wet or dry conditions Oct–Dec, with UNICEF warning of displacement, malnutrition, water shortages and school closures.
 2. UIS 69 (S7 C8 N7 V8 A2) | NBC News via climateandeconomy.com | Nepal ended flood search-and-rescue with more than 5,200 still missing — the disaster destroyed 12 hydroelectric projects, roads and bridges, and authorities say nearly $5B is needed for early recovery.
@@ -322,19 +337,5 @@ The flagship for news around the universe. Adults 21+. For entertainment purpose
 6. Iowa State outlasts West Virginia 45-42 in a shootout; RB Aiden Flora: 212 rush yards and 3 TDs, plus 48 passing yards and 2 more TDs
 7. QCi unveils Dirac-3S modular photonic optimization system, claiming support for up to 9,980 variables ahead of its first customer shipment
 8. Finnish deep-tech S-Transistors raises €2.6M pre-seed for superconducting-transistor "quantum motherboards" to tackle the control bottleneck in scaling quantum computers
-
-## 2026-10-04 08:13 UTC
-1. Google DeepMind unveils SynthID Bio — invisible watermarking for AI-designed proteins to head off biosecurity misuse
-2. UC Davis brain-computer interface lets a paralyzed man "talk" and "sing" in near real time from speech-muscle brain signals
-3. Swift telescope catches a black hole nibbling a Sun-like star 500M light-years away — new data method unlocks a new era for the mission
-4. South Korean banks hit by data breaches; regulator warns AI may be behind the attacks — "AI attacks defended by AI"
-5. Global study: about 1 in 8 cancer cases worldwide trace back to infections — four pathogens carry most of the burden
-6. OpenAI safety staffer resigns, calling the company's safety culture "broken" — renewed scrutiny of AI governance
-7. Hubble reveals a decagon over Saturn's south pole — a mirror image of the famous north-pole hexagon
-8. Astronomers pin down IC 1101 as the largest known galaxy — wider than 17 Milky Ways
-9. Exobiosphere becomes first commercial customer of Outpost's orbital Space Factories — microgravity drug discovery with Earth return
-10. Apple Pay launches in India with Axis Bank as its first partner
-11. USMNT demolishes Mexico with a brace from 17-year-old Julian Hall — the present and future of the Stars and Stripes
-12. Nepal plans to drain four glacial lakes after deadly floods — a climate-risk intervention years in the making
 
 Club: https://ko-fi.com/everbrookshoppe ($19/mo). Album: https://ko-fi.com/s/6811d82416 ($13).
