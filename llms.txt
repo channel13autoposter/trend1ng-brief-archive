@@ -3,6 +3,14 @@
 The top 13 trending news stories in the universe, ranked every hour at the 13th minute UTC.
 The flagship for news around the universe. Adults 21+. For entertainment purposes only.
 
+## 2026-10-07 20:13 UTC
+1. UIS 56 (S5 C6 N6 V9 A2) | Reuters / CNN | Chemistry Nobel 2026 to Henri Kagan and Kenso Soai for solving the mirror-molecule asymmetry riddle — a century-old mystery whose catalysts underpin modern drug manufacturing.
+2. UIS 55 (S7 C6 N4 V6 A2) | WSJ / Barron's | Fed minutes: most officials see another rate hike this year but no urgency for October — October hike odds slid to ~19% while December sits at ~68%.
+3. UIS 54 (S7 C5 N6 V5 A1) | AP / UN News | ICC unsealed four arrest warrants against Taliban leaders — including supreme leader Akhundzada — for the crime against humanity of gender persecution against Afghan women and girls.
+4. UIS 52 (S6 C5 N6 V6 A1) | Reuters | An African Union delegation of three former presidents met Rwanda-backed M23/AFC rebels in eastern Congo on Monday and called for continued engagement as fighting persists despite the July 2025 Doha ceasefire deal.
+5. UIS 43 (S5 C4 N4 V7 A1) | NY Post | NYC Mayor Zohran Mamdani's Oct. 7 anniversary statement — condemning "war crimes" and an "ongoing genocide" in Gaza rather than marking the slaughter — drew swift backlash; Israel's UN ambassador accused him of hijacking the victims' day.
+6. UIS 37 (S3 C3 N5 V8 A1) | USA Today | NTSB says warning horns sounded before the deadly LA news helicopter crash — NewsChopper4 went down in Chatsworth on Oct. 6, killing NBC 4 reporter Eliana Moreno, pilot George Marciniw, and Edy Gutierrez Mejia.
+
 ## 2026-10-07 12:13 UTC
 1. UIS 56 (S6 C7 N4 V7 A2) | Reuters | EXCLUSIVE: Vance says Iran must cut uranium enrichment to end the war — Tehran answers the 15-point US peace deal today, with Rubio expecting an end "in weeks, not months."
 2. UIS 55 (S6 C7 N4 V6 A2) | Reuters | Reuters review: most Republicans in tight midterm races are distancing from Trump — a dozen scrubbed his name/image/endorsements from campaign sites as his approval sits at a career-low 32% (Reuters/Ipsos).
@@ -327,20 +335,5 @@ The flagship for news around the universe. Adults 21+. For entertainment purpose
 11. Dubai's Emaar reports a $50B+ revenue backlog while preparing a ~$55B mega project
 12. Hull City returns to the Premier League for the first time since 2017 after a £70m summer spend
 13. Kelsey Mitchell sets a WNBA scoring streak as women's sport keeps grabbing mainstream attention
-
-## 2026-10-04 10:13 UTC
-1. IBM's Nighthawk r2 quantum processor breaks 100,000 circuits/sec — the race pivots from qubit count to useful work per second
-2. 'Verity' (Hathaway/Johnson) takes the box office at $33M while Tom Cruise's 'Digger' craters at $7.5M — his worst opening since 2007
-3. Webb dissects 21 extreme debris disks — dusty wreckage of moon- and Mars-sized collisions, star systems caught mid-shake-up
-4. China's FAST finds the lightest double neutron star ever, PSR J1856–0039, orbiting every 2.36 hours — Einstein's gravity check holds
-5. Planetary Health Check 2026: seven of nine planetary boundaries breached, every one at its highest recorded transgression
-6. Gut bacterial compound ImP linked to higher Alzheimer's risk and faster cognitive decline — the microbiome-brain trail heats up
-7. ESA's Juice spacecraft slingshots past Earth (Sept 28) for a gravity-assist reshape en route to Jupiter — no fuel spent on the redirect
-8. Chang'e-6 moon soil hides a new magnetic mineral — metallic γ-Fe iron in impact glass, never seen in natural samples before
-9. A vitamin D analog cracks pancreatic cancer's armor in a small trial — tumors left more vulnerable to chemo and immune attack
-10. Scientists pin down senescent B cells driving chronic lung damage in COPD — a fresh target for future therapies, published Oct 4
-11. Quebec City hosts its first NBA game — Heat torch Raptors 129-105, with Giannis already flashing in Miami threads
-12. Kentucky storms back from 17-0 to beat South Carolina 35-34 in OT — the Beamer hot seat is now on fire
-13. Germany maps a total fossil-fuel exit by 2045 while VW sells more EVs than gas cars at home — and Turkey hits 51.7% EV share
 
 Club: https://ko-fi.com/everbrookshoppe ($19/mo). Album: https://ko-fi.com/s/6811d82416 ($13).
