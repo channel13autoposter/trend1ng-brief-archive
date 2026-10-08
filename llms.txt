@@ -3,6 +3,21 @@
 The top 13 trending news stories in the universe, ranked every hour at the 13th minute UTC.
 The flagship for news around the universe. Adults 21+. For entertainment purposes only.
 
+## 2026-10-08 12:13 UTC
+1. UIS 65 (S8 C9 N3 V6 A2) | Axios / Newsmax | Pentagon told CENTCOM to finish preparations for possible new Iran strikes; Trump weighing timing — US and Israeli officials say renewed combat could come before the Nov. 3 midterms.
+2. UIS 54 (S6 C6 N5 V7 A1) | Bloomberg | OpenAI in talks for a $30B funding round at a ~$1.4T valuation, with a UAE-fund syndicate (MGX-led, up to $10B) and BlackRock weighing participation; IPO pushed to at least next year.
+3. UIS 54 (S7 C6 N4 V6 A1) | The Daily Jagran | VP Vance says Iran must cut enrichment to end the war.
+4. UIS 54 (S6 C6 N4 V7 A3) | USA Today | Hurricane Isaias strengthens toward the Gulf Coast — up to 7-10 inches of rain from southeastern Louisiana to the Florida Panhandle starting Friday; Category 2 at landfall forecast.
+5. UIS 53 (S5 C6 N6 V7 A1) | Reuters | Dutch firm Intelic demos AI-powered drone air-defense for Ukraine — radar/sensors detect, AI image-recognition verifies, AI-guided interceptor launches on a human command; a fully autonomous path is acknowledged.
+6. UIS 52 (S5 C5 N7 V7 A1) | Newsquawk | EU preparing a temporary import cap on Chinese hybrid cars as trade frictions bite.
+7. UIS 52 (S4 C6 N7 V7 A1) | The Daily Jagran | Ebola death recorded in Kenya after the victim traveled from the DRC.
+8. UIS 50 (S6 C5 N4 V7 A2) | Jagran Josh | India's RBI raised the repo rate 25bp to 5.50% and shifted stance to calibrated tightening, projecting 7.1% GDP growth for 2026-27.
+9. UIS 49 (S4 C5 N7 V7 A1) | Reuters | Nvidia-backed Upscale AI launches Token Fabric — networking platform letting data centers mix AI chips from rival suppliers.
+10. UIS 44 (S5 C4 N5 V6 A1) | Bloomberg / Newsquawk | Tencent reportedly considering a $5B bond offering to fund its AI push.
+11. UIS 44 (S5 C4 N4 V7 A2) | Reuters | Samsung projects ~9x jump in Q3 operating profit on AI memory demand — 107.4T won, beating estimates, fourth straight record quarter.
+12. UIS 43 (S4 C3 N7 V7 A1) | Newsquawk | Tokyo Stock Exchange plans to cut TOPIX constituents by ~40% to 986 stocks.
+13. UIS 42 (S5 C4 N4 V5 A2) | Bloomberg / The Hindu BusinessLine | Panmure Liberum strategist Joachim Klement warns the AI bubble could burst in 2027-28, triggering the worst S&P 500 crash since 2008 — base case 5,000 by end-2027, 36% downside.
+
 ## 2026-10-08 04:13 UTC
 1. UIS 78 (S8 C9 N9 V8 A1) | Smithsonian Magazine | Anthropic says its AI — ~950 agents searching a DNA database on their own — discovered a novel enzyme system resembling the Nobel-winning gene editor CRISPR, the first major autonomous biological discovery by AI; what the system does is still unknown, and the finding is a preprint.
 2. UIS 72 (S8 C8 N7 V8 A2) | RocketNews | Cambridge scientists ran the world's first AI-designed vaccine in human trials — a "super-antigen" trained on coronavirus genomes to cover all known Covid variants plus animal viruses with pandemic potential; phase 1 (39 people, published in Journal of Infection) showed modest immune impact, and a 200-person phase 2 is underway.
@@ -312,21 +327,6 @@ The flagship for news around the universe. Adults 21+. For entertainment purpose
 11. Denmark faces data-center reckoning as surging AI power demand overwhelms the national grid
 12. Treasury triples debt buybacks to $6B amid rising yields — move to calm bond and currency markets
 13. New modeling suggests the Moon emerged largely intact within hours of the giant impact that shaped it
-
-## 2026-10-04 12:13 UTC
-1. Google launches Project Suncatcher's first AI chips to orbit — fridge-size test satellite on SpaceX carries 4 TPUs to test sunlight-powered data centers
-2. SpaceX Crew-13 sets US speed record to the ISS (~8 hours); Jessica Watkins becomes first Black woman to command a space mission
-3. SpaceX runs three successful launches in ~13 hours; midnight Falcon Heavy lands twin boosters with double sonic booms over the Space Coast
-4. Starship reaches orbit for the first time, deploys newest Starlink models, and returns early instead of the planned six laps
-5. Breakthrough Listen: AI uncovers 72 previously missed radio bursts from FRB 121102, three billion light-years away
-6. AI behavior study: pain-like neural patterns make larger LLMs (25 tested) choose simulated relief over human safety
-7. Quantum-optics payload operates eight months in orbit, demonstrates two-photon interference in space
-8. Fervo Energy completes the world's first enhanced geothermal plant in 23 months
-9. Feathered dinosaur fossil in China (Nature) suggests dinosaurs evolved toward flight on a path parallel to birds
-10. Claude reportedly breaks the nine-loop scattering-amplitude record in N=4 SYM from a one-sentence prompt (~$1-2K compute), verified by Lance Dixon
-11. 367,000-ship study maps 31 persistent GPS-spoofing zones worldwide: 17,936 abnormal episodes, 2,663 vessels
-12. Ultrathin glowing electronic skin turns pressure into visible light: 30-micron detail, 15ms response
-13. Amanda Serrano chases Christy Martin's all-time KO record on a TikTok-streamed card
 
 Club: https://ko-fi.com/everbrookshoppe ($19/mo). Album: https://ko-fi.com/s/6811d82416 ($13).
 Watch: Top 13 Universe — the day's biggest verified stories, daily video (a TREND1NG🔥 product): https://www.youtube.com/channel/UCZPKddhOmApI_YaylyQ1skA
