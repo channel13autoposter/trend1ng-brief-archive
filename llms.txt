@@ -3,6 +3,13 @@
 The top 13 trending news stories in the universe, ranked every hour at the 13th minute UTC.
 The flagship for news around the universe. Adults 21+. For entertainment purposes only.
 
+## 2026-10-08 04:13 UTC
+1. UIS 78 (S8 C9 N9 V8 A1) | Smithsonian Magazine | Anthropic says its AI — ~950 agents searching a DNA database on their own — discovered a novel enzyme system resembling the Nobel-winning gene editor CRISPR, the first major autonomous biological discovery by AI; what the system does is still unknown, and the finding is a preprint.
+2. UIS 72 (S8 C8 N7 V8 A2) | RocketNews | Cambridge scientists ran the world's first AI-designed vaccine in human trials — a "super-antigen" trained on coronavirus genomes to cover all known Covid variants plus animal viruses with pandemic potential; phase 1 (39 people, published in Journal of Infection) showed modest immune impact, and a 200-person phase 2 is underway.
+3. UIS 63 (S7 C8 N4 V8 A2) | BBC live blog / CNBC | Trump gave Iran "one more chance," postponing his 48-hour Hormuz ultimatum by five days after threatening to "obliterate" power plants — while Tehran's parliamentary speaker calls US claims of talks "fake news," Iran keeps striking tankers in the Strait, and Brent crude is back above $100.
+4. UIS 46 (S4 C5 N6 V6 A1) | Desert Sun / VC Star | SpaceX takes a third attempt overnight at its twice-scrubbed Vandenberg launch of 21 SDA Tranche 1 military recon satellites — liftoff targeted at 07:54 UTC today after two unexplained scrubs with "vehicle and payload in good health."
+5. UIS 40 (S3 C4 N5 V8 A1) | NY Post | Southern California real estate agent Wanying Zhang, accused of spying on a prominent Taiwanese family for China, was denied bail as prosecutors revealed a secret $190,000 Chinese crypto account and a dozen one-way trips to China, Paris and Japan; back in court October 19.
+
 ## 2026-10-07 20:13 UTC
 1. UIS 56 (S5 C6 N6 V9 A2) | Reuters / CNN | Chemistry Nobel 2026 to Henri Kagan and Kenso Soai for solving the mirror-molecule asymmetry riddle — a century-old mystery whose catalysts underpin modern drug manufacturing.
 2. UIS 55 (S7 C6 N4 V6 A2) | WSJ / Barron's | Fed minutes: most officials see another rate hike this year but no urgency for October — October hike odds slid to ~19% while December sits at ~68%.
@@ -320,20 +327,5 @@ The flagship for news around the universe. Adults 21+. For entertainment purpose
 11. 367,000-ship study maps 31 persistent GPS-spoofing zones worldwide: 17,936 abnormal episodes, 2,663 vessels
 12. Ultrathin glowing electronic skin turns pressure into visible light: 30-micron detail, 15ms response
 13. Amanda Serrano chases Christy Martin's all-time KO record on a TikTok-streamed card
-
-## 2026-10-04 11:13 UTC
-1. Anthropic's swarm of 950 Claude agents isolates ART — a possible new class of CRISPR-like programmable gene editors — as Anthropic opens a physical wet lab
-2. Claude Opus 5.5 takes #1 on the Artificial Analysis Intelligence Index (58 vs Fable 5.1 and GPT-6 Astra at 53); token costs drop 40%
-3. NASCAR's South Point 400 at Las Vegas honors Kyle Busch: renamed roads, "Moment of Rowdy" on lap 8, Kyle Larson in a Busch throwback scheme
-4. Carson Hocevar–Keselowski feud escalates: Hocevar trolls the No. 6 online; Kevin Harvick warns he'll "wind up wrecked"
-5. LIV Golf faces the end of PIF funding after 2026 with no replacement named and player contracts expiring
-6. Aston Villa's Europa League triumph banks £45.6m — then forces winner sell-offs after £119.6m and £85.4m structural losses
-7. Nike's Caitlin 1 signature shoe sells out most sizes within hours of its Oct 1 SNKRS debut
-8. Jury orders the New York Times to pay $9.25m for defaming an Alabama basketball player, ending a 50-plus-year win streak in US defamation cases
-9. Courts order the NCAA to let former pros back into the transfer portal and clear 16 players to seek a fifth year
-10. India's TakeMe2Space launches an orbital-computing satellite on SpaceX's Transporter 18 — AI-grade processing in space
-11. Dubai's Emaar reports a $50B+ revenue backlog while preparing a ~$55B mega project
-12. Hull City returns to the Premier League for the first time since 2017 after a £70m summer spend
-13. Kelsey Mitchell sets a WNBA scoring streak as women's sport keeps grabbing mainstream attention
 
 Club: https://ko-fi.com/everbrookshoppe ($19/mo). Album: https://ko-fi.com/s/6811d82416 ($13).
