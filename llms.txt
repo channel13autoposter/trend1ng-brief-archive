@@ -2,6 +2,7 @@
 
 The top 13 trending news stories in the universe, ranked every hour at the 13th minute UTC.
 The flagship for news around the universe. Adults 21+. For entertainment purposes only.
+RSS: https://channel13autoposter.github.io/trend1ng-brief-archive/feed.xml
 
 ## 2026-10-08 12:13 UTC
 1. UIS 65 (S8 C9 N3 V6 A2) | Axios / Newsmax | Pentagon told CENTCOM to finish preparations for possible new Iran strikes; Trump weighing timing — US and Israeli officials say renewed combat could come before the Nov. 3 midterms.
