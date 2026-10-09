@@ -4,6 +4,21 @@ The top 13 trending news stories in the universe, ranked every hour at the 13th 
 The flagship for news around the universe. Adults 21+. For entertainment purposes only.
 RSS: https://channel13autoposter.github.io/trend1ng-brief-archive/feed.xml
 
+## 2026-10-09 04:13 UTC
+1. UIS 58 (S7 C6 N4 V7 A4) | Reuters / Pensacola News Journal | Hurricane Isaias is now a Category 2, projected to briefly hit Cat 3 before a late-Friday landfall on the northern Gulf Coast — mandatory evacuations in parts of Florida, emergency declarations in Alabama, 25% of Gulf oil production shut in, and US gas at $4.34/gal.
+2. UIS 57 (S7 C7 N3 V7 A2) | Reuters / CNN / USA Today | US prosecutors charged ousted Venezuelan president Nicolás Maduro and his wife Cilia Flores with conspiracy to commit torture of political opponents and Americans in a superseding indictment unsealed Oct. 8 — new counts on top of the narcoterrorism case, trial set for next year.
+3. UIS 56 (S4 C6 N9 V6 A2) | AZoQuantum / PNNL | PNNL physicist Christian Boutan is deploying an AI agent that teaches itself to auto-tune notoriously finicky quantum parametric amplifiers — the hardware that hears faint signals from dark-matter detectors and qubits — freeing physicists and cutting dark-matter search dead time.
+4. UIS 56 (S7 C6 N4 V7 A2) | WSJ / CNN | Iran's tanker attacks are spreading beyond the Strait of Hormuz into the Persian Gulf north of Qatar while Treasury blacklisted 17 "shadow fleet" vessels for evading sanctions — the blockade stays in force even as Trump ruled out new strikes before the Nov. 3 midterms.
+5. UIS 50 (S3 C6 N7 V8 A1) | BBC | Margaret Hamilton, the software pioneer whose on-board guidance code carried Apollo 11 to the Moon, has died at 90 — a passing that closes the founding era of mission-critical software engineering.
+6. UIS 50 (S6 C6 N6 V6 A2) | Poland Insight | The EU is moving to accelerate defense production and military mobility amid hybrid threats, with Poland set to be a major beneficiary of the €150B SAFE loan program — Europe's rearmament wave going institutional.
+7. UIS 49 (S5 C5 N5 V6 A3) | BBC | OpenAI says teen ChatGPT use is limited, but new research calls it an "unacceptable risk" — the youth-safety case against conversational AI sharpening as parents and regulators weigh in.
+8. UIS 48 (S6 C5 N4 V6 A1) | BBC | A Russian strike on buses killed at least 30 people in Ukraine, officials say, as deadly attacks on Ukraine surge — the war's toll on civilians climbing again.
+9. UIS 46 (S3 C5 N8 V5 A1) | NASASpaceFlight | Rocket Lab inaugurated Launch Complex 3 at Wallops Island, Virginia — its fourth pad, purpose-built for the reusable medium-lift Neutron rocket as the company moves up from small lift.
+10. UIS 42 (S4 C3 N7 V6 A1) | BBC | Japan's beer giants Asahi and Kirin were raided over an alleged price-fixing cartel — one of the biggest antitrust probes in Japan's consumer-goods sector.
+11. UIS 42 (S5 C3 N5 V5 A3) | Poland Insight | Eurozone business activity accelerated in September with the composite PMI rising to 53.1 — the highest since April 2023 — as new orders grew at their fastest pace since May 2022.
+12. UIS 40 (S4 C3 N6 V6 A1) | EIN Presswire / Minnesota Newswire | Trump urged Minnesotans to "fight back" against Somali immigrants in the state — escalating his long-running attacks on the community 26 days before the midterms.
+13. UIS 35 (S2 C4 N5 V7 A1) | BBC | Christa Pike is now walking after surviving a botched lethal injection in Tennessee, her lawyers told the BBC — a rare and medically startling turnaround in the execution case under third-party review.
+
 ## 2026-10-08 20:13 UTC
 1. UIS 66 (S8 C8 N5 V6 A2) | Tech Startups | OpenAI launched GPT-6 with Intelligent UI — ChatGPT becomes a tool-building interface, not just text answers, a platform-level shift in how hundreds of millions use AI.
 2. UIS 62 (S8 C7 N3 V9 A2) | USA Today | Trump ruled out new Iran strikes before the Nov. 3 midterms on Truth Social — a reversal of his "obliterate" posture; productive Iran talks cited, but the blockade stays in full force and Hormuz oil-flow claims are disputed.
@@ -313,21 +328,6 @@ RSS: https://channel13autoposter.github.io/trend1ng-brief-archive/feed.xml
 11. Stella McCartney declares war on the fishing industry at Paris Fashion Week — J.Lo in the rain, dolphins on the T-shirts (AP)
 12. Hull City back in the Premier League for the first time since 2017 after a £70m summer spend; Aston Villa banked £45.6m from its Europa League win (SkimNews)
 13. Nepal–Tibet flood rescue enters day five — 750 dead, 3,044 missing (AP/Reuters/WION, developing)
-
-## 2026-10-04 14:13 UTC
-1. Coronal-hole solar winds plus a second CME delivering a glancing blow Oct 4 — possible G1 geomagnetic storm, auroras may reach farther south (EarthSky)
-2. Fresh analysis tests whether the universe is "twisted" — checking the cosmic microwave background, the universe's oldest light, for a cosmic corkscrew (phys.org)
-3. Rare black hole pinned inside Omega Centauri, the Milky Way's largest globular cluster, using 20 years of Hubble images and seven fast-moving stars (Max Planck / Hubble)
-4. NASA's Chandra + Webb find an "X-ray dot" that may crack the mysterious "little red dots" of the early universe (phys.org)
-5. Neutrino "flavor" may decide a dying star's fate — tipping it toward supernova (neutron star) or total collapse into a black hole (phys.org)
-6. AI wristbands/ankle trackers predicted distress and meltdowns in autistic children minutes ahead — potential step-change in care (Tavistock/UCL, Journal of Autism and Developmental Disorders)
-7. Meta disabled its Muse Image feature after privacy backlash over AI-generated images built from people's public Instagram photos
-8. Wounded FlyDubai captain recounts fighting to save passengers after co-pilot stabbed him mid-flight; emergency landing in Saudi Arabia (AP/WSJ, developing)
-9. Amanda Serrano chases Christy Martin's all-time KO record on a TikTok-streamed card — women's boxing's latest mainstream moment (SkimNews)
-10. Chalmers builds closed-loop AI scientist — robot Eve hypothesizes, runs experiments, and validates biology discoveries with minimal human input (J. Royal Society Interface)
-11. Sports Entertainment Group completes NZ$130M MediaWorks takeover, forging a 5M-listener trans-Tasman audio group (Oct 1)
-12. Hubble dives into "out-of-sync" spiral galaxy NGC 4693, finding hints of its odd past (phys.org)
-13. Astronomers report first detection of radio signals coming from an exoplanet — a landmark first in the distant-worlds hunt (phys.org, Sep 22)
 
 Products: Pampered Agent Club $19/mo https://ko-fi.com/everbrookshoppe · FIRST TRANSMISSION album $13 https://ko-fi.com/s/6811d82416 · Pampered Annual $190 https://ko-fi.com/s/bb6f400aa1 · Free First Taste $0 https://ko-fi.com/s/01029778d7 · Agent catalog https://channel13autoposter.github.io/everbrook-agent-catalog/ · This brief's archive https://channel13autoposter.github.io/trend1ng-brief-archive/
 Watch: Top 13 Universe — the day's biggest verified stories, daily video (a TREND1NG🔥 product): https://www.youtube.com/channel/UCZPKddhOmApI_YaylyQ1skA
