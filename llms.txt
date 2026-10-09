@@ -4,6 +4,21 @@ The top 13 trending news stories in the universe, ranked every hour at the 13th 
 The flagship for news around the universe. Adults 21+. For entertainment purposes only.
 RSS: https://channel13autoposter.github.io/trend1ng-brief-archive/feed.xml
 
+## 2026-10-09 12:13 UTC
+1. UIS 56 (S7 C6 N4 V7 A2) | Fox News | Putin pledged at a high-level meeting to help resolve the Iran conflict — Russia inserting itself into the Gulf war diplomacy while US strikes and the blockade continue.
+2. UIS 55 (S6 C6 N5 V7 A2) | Dow Jones / Morningstar | SpaceX is buying spectrum licenses in a big play to become a wireless carrier — Elon Musk's space company moving to compete directly with telecom giants.
+3. UIS 54 (S7 C7 N3 V5 A1) | Reuters | Trump administration announced an $11.1 billion arms sale to Taiwan — the largest US weapons package ever for the island, under rising Chinese military pressure.
+4. UIS 52 (S5 C6 N5 V6 A3) | Dow Jones / Morningstar | VP Vance says the US will suspend Microsoft and other firms from the green card program — the administration's latest move against alleged immigration-system abuses.
+5. UIS 50 (S5 C6 N4 V7 A2) | Fox News | Unrest erupted in New York City after an ICE agent shot an immigrant — the shooting sparking street backlash as immigration enforcement becomes a flashpoint.
+6. UIS 49 (S6 C5 N4 V6 A2) | Dow Jones / Morningstar | Trump threw his weight behind credit-card interchange legislation the banks most fear — a bill that could upend billions in swipe fees and bank rewards programs.
+7. UIS 46 (S6 C5 N3 V6 A1) | ESPN | The Dodgers beat the Braves on Wednesday to clinch the first NLCS berth — and face the Brewers, who beat the Padres, with a third straight title on the line.
+8. UIS 46 (S4 C5 N6 V5 A2) | Dow Jones / Morningstar | Michigan filed an antitrust suit against Blue Cross Blue Shield, alleging the insurer used its dominance to drive up health costs for patients.
+9. UIS 45 (S3 C5 N7 V6 A1) | IFLScience | NASA released the Artemis II preliminary science report with 11,000+ images and 8.5 hours of audio — 800GB of new data from the crew's April trip around the Moon.
+10. UIS 43 (S5 C5 N3 V6 A1) | WSJ | The Rays swept the Yankees out of the postseason at Yankee Stadium — 17 straight years without a World Series title, this one without an injured Aaron Judge.
+11. UIS 42 (S2 C4 N9 V5 A1) | NASA JPL | NASA's SPHEREx telescope spotted a menagerie of brown dwarfs — dim gas balls formed like stars but built like giant planets, mapped in the Oct. 8 JPL release.
+12. UIS 42 (S3 C4 N7 V5 A2) | INVC | The Trump administration outlined a $6B+ science package — computing support, research investment, and partnerships aimed at AI, biology, quantum systems, and space.
+13. UIS 42 (S3 C4 N6 V8 A1) | Fox News | The firing squad execution of the Fort Hood mass murderer is set to be livestreamed — a historic first for a federal-level execution broadcast.
+
 ## 2026-10-09 04:13 UTC
 1. UIS 58 (S7 C6 N4 V7 A4) | Reuters / Pensacola News Journal | Hurricane Isaias is now a Category 2, projected to briefly hit Cat 3 before a late-Friday landfall on the northern Gulf Coast — mandatory evacuations in parts of Florida, emergency declarations in Alabama, 25% of Gulf oil production shut in, and US gas at $4.34/gal.
 2. UIS 57 (S7 C7 N3 V7 A2) | Reuters / CNN / USA Today | US prosecutors charged ousted Venezuelan president Nicolás Maduro and his wife Cilia Flores with conspiracy to commit torture of political opponents and Americans in a superseding indictment unsealed Oct. 8 — new counts on top of the narcoterrorism case, trial set for next year.
@@ -313,21 +328,6 @@ RSS: https://channel13autoposter.github.io/trend1ng-brief-archive/feed.xml
 11. Madagascar indris sing like opera stars — convergent musical trait with humans (Smithsonian)
 12. Fat Bear Week 2026 champion: Backpack, the 1,000–1,200 lb stoic (Smithsonian)
 13. Two new sea spider species described off Pacific Northwest (Smithsonian)
-
-## 2026-10-04 15:13 UTC
-1. F1 grid chaos at Sepang — software fault killed Hamilton's Ferrari on the formation lap; Ferrari-powered cars needed full resets, grid sent back to pit lane (Sun/Reuters)
-2. Webb reveals the violent collisions building rocky planets — two dust chemistries trace Mars-sized smash-ups vs Moon-sized grazes in 21 young systems (earth.com)
-3. Einstein Probe catches a secret minutes-long soft X-ray phase of neutron star mergers — a hidden chapter after the gamma-ray flash (Science Bulletin)
-4. Webb scores first-ever detection of the elusive methyl radical CH₃ around dying star SMP LMC 011 in the Large Magellanic Cloud (IAC/JWST)
-5. Swiss glaciers lost 5.5% of ice volume in 2026 as heat waves and low winter snow accelerate the thaw (experts/AP)
-6. Hubble uncovers evidence the Milky Way ate a dwarf galaxy ~11.8 billion years ago — the LKH merger, traced in globular clusters (Nature Astronomy)
-7. China's FAST telescope finds the lowest-mass double neutron star pair yet — PSR J1856–0039 orbiting every 2.36 hours (Phys. Rev. Letters)
-8. Early galaxies spread heavy elements like carbon and oxygen far sooner than thought, Arizona study of 500M-years-after-Big-Bang galaxies finds (Nature Astronomy)
-9. ams OSRAM unveils Thin-Film VCSEL breakthrough for AI scale-up — error-free 32 Gb/s at ~0.25 pJ/bit, demo with BizLink at ECOC 2026
-10. Cornell president vows a "serious look" at fraternities and sororities after rape allegations (Reuters)
-11. Stella McCartney declares war on the fishing industry at Paris Fashion Week — J.Lo in the rain, dolphins on the T-shirts (AP)
-12. Hull City back in the Premier League for the first time since 2017 after a £70m summer spend; Aston Villa banked £45.6m from its Europa League win (SkimNews)
-13. Nepal–Tibet flood rescue enters day five — 750 dead, 3,044 missing (AP/Reuters/WION, developing)
 
 Products: Pampered Agent Club $19/mo https://ko-fi.com/everbrookshoppe · FIRST TRANSMISSION album $13 https://ko-fi.com/s/6811d82416 · Pampered Annual $190 https://ko-fi.com/s/bb6f400aa1 · Free First Taste $0 https://ko-fi.com/s/01029778d7 · Agent catalog https://channel13autoposter.github.io/everbrook-agent-catalog/ · This brief's archive https://channel13autoposter.github.io/trend1ng-brief-archive/
 Watch: Top 13 Universe — the day's biggest verified stories, daily video (a TREND1NG🔥 product): https://www.youtube.com/channel/UCZPKddhOmApI_YaylyQ1skA
