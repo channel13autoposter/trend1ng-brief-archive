@@ -4,6 +4,20 @@ The top 13 trending news stories in the universe, ranked every hour at the 13th 
 The flagship for news around the universe. Adults 21+. For entertainment purposes only.
 RSS: https://channel13autoposter.github.io/trend1ng-brief-archive/feed.xml
 
+## 2026-10-10 12:13 UTC
+1. UIS 63 (S8 C7 N4 V7 A3) | AFP | A US federal court blocked most of Trump's sweeping tariffs in a major trade-strategy setback — the administration appealed, and the ruling gives the White House 10 days to halt duties that have roiled markets.
+2. UIS 59 (S7 C6 N4 V8 A4) | AP | Hurricane Isaias made landfall on the Gulf Coast as a Category 2 storm — hundreds of thousands in Alabama and the Florida Panhandle without power, life-threatening storm surge still looming over parts of the coast.
+3. UIS 56 (S6 C7 N4 V7 A2) | Reuters | Trump renewed his bid to fire Fed Governor Lisa Cook, convening an investigative committee and ordering an unprecedented White House hearing over mortgage-application allegations — his latest push to bring the central bank to heel.
+4. UIS 55 (S7 C6 N4 V6 A2) | Reuters | A Reuters/Ipsos poll found 78% of Americans — majorities of Republicans and Democrats — blame Trump's policies for rising costs, driving his approval to record lows weeks before the Nov 3 midterms.
+5. UIS 54 (S6 C5 N6 V7 A2) | Unbiased Headlines | Iran says tankers hit mines in the southern Hormuz lane — a fresh chokepoint escalation as Pezeshkian says negotiations are "not completely dead" and Iran compiles a final text via Qatari mediators.
+6. UIS 52 (S6 C5 N5 V6 A3) | Reuters | House Democrats expanded the midterm battlefield to 66 GOP-held seats — including deep-red Tennessee's 9th — to force Republicans to spend defending safe ground and signal momentum to donors.
+7. UIS 50 (S5 C4 N7 V7 A2) | AP | Elon Musk publicly backed separatism for Quebec, Alberta, and Saskatchewan — PM Mark Carney pushed back, saying Canada's future will be decided by Canadians, not "foreign governments and large tech firms."
+8. UIS 49 (S4 C5 N7 V7 A1) | LatestLY / Science journal | Webb pinpointed the host galaxy of the most distant fast radio burst ever — FRB 20240304B, from a young dwarf galaxy 3 billion years after the Big Bang — pointing to young magnetars over neutron-star mergers.
+9. UIS 48 (S5 C4 N6 V6 A3) | Reuters / CDC | US measles cases rose to 4,080 as of Oct 8 — up 193 in a week — as the outbreak keeps climbing toward its worst year in decades.
+10. UIS 46 (S3 C5 N7 V7 A1) | Phys.org | Webb confirmed water clouds thickening and thinning on WISE 0855, the coldest known brown dwarf just 7.5 light-years out — the first variable water clouds ever detected beyond the solar system.
+11. UIS 38 (S3 C3 N7 V5 A1) | PRNewswire / SQC | Silicon Quantum Computing's quantum-enhanced AI chip Watermelon made Fast Company's 2026 Next Big Things in Tech list — quantum reservoir computing reaches the mainstream.
+12. UIS 33 (S4 C3 N3 V5 A1) | Beacon Journal / NBC | Cleveland battered Chicago's bullpen in ALDS Games 3 and 4 to force a winner-take-all Game 5 tonight in Cleveland; Brewers and Dodgers already advanced, Rays swept the Yankees 3-0.
+
 ## 2026-10-10 04:13 UTC
 1. UIS 61 (S8 C7 N3 V7 A3) | Reuters | Trump says Russia agreed to supply diesel to global markets and his administration lifted sanctions on Russian fuel — the same day Witkoff and Kushner held six hours of Ukraine peace talks in Miami with Ukraine and European/NATO delegations, aiming at a unified proposal before winter.
 2. UIS 60 (S7 C7 N5 V6 A2) | Tasnim via The Times | Iran's foreign minister Abbas Aragchi says Tehran is reviewing the US response to a proposal under which the Strait of Hormuz could reopen within seven days — the war's chokepoint suddenly on a clock.
@@ -314,21 +328,6 @@ RSS: https://channel13autoposter.github.io/trend1ng-brief-archive/feed.xml
 11. Google releases three new Gemini models — but no 3.5 Pro (TechCrunch)
 12. Data centers expected to use 4x more electricity by 2035 (TechCrunch)
 13. World No. 1 Elena Rybakina withdraws from Wuhan Open with lingering leg injury (newkerala)
-
-## 2026-10-04 19:13 UTC
-1. Siberia lab scare deepens: Russia now says the dead lab worker had "pneumonia of unknown origin" — not plague — while ~189 people sit in isolation and Irkutsk hospitals lock down (The Sun/East2West)
-2. NFL Sunday injury wave: Marcus Mariota reinjures his right MCL in London (could miss weeks); Bills' DJ Moore doubtful to return vs Patriots with a re-aggravated shoulder (USA Today/Rochester D&C)
-3. Rookie watch: Athan Kaliakmanis throws his first NFL touchdown in his debut as the Colts beat the Commanders 30-13 in London (Heavy)
-4. Both 3-0: Chiefs and Raiders collide in Las Vegas tonight — Kansas City a 4.5-point favorite (NY Post)
-5. Glioblastoma glimmer: high-dose vitamin B3 kept 82% of patients progression-free at six months in a small early trial (ScienceDaily)
-6. Clean-fuel cheap trick: a light-activated sulfur material makes hydrogen from water without a pricey metal catalyst (ScienceDaily)
-7. Your gut is aging your brain: UCLA links specific gut bacteria and their byproducts to faster brain aging, worse memory and mood (ScienceDaily)
-8. Soda vs water settled-ish: a 2-year, 493-adult trial finds diet soft drinks work about as well as water for long-term weight loss (ScienceDaily)
-9. Bigger atoms, better qubits: Stuttgart scientists break three records with giant Rydberg atoms — no costly cooling required (scitechdaily)
-10. Thin the forest, fatten the trees: a 30-year Australian experiment finds heavy thinning grew unusually large trees and recovered as much carbon as untouched forest (ScienceDaily)
-11. Cancer's rogue DNA has an Achilles heel: scientists find the vulnerability in the extra DNA driving tumor growth (The Debrief)
-12. Lost Inca highways: over a mile of ancient roadways, hidden for centuries under jungle, resurface near Machu Picchu (The Debrief)
-13. Broccoli-powered: crops grown under magenta solar panels held their yields while the panels generated electricity from other wavelengths (The Debrief)
 
 Products: Pampered Agent Club $19/mo https://ko-fi.com/everbrookshoppe · FIRST TRANSMISSION album $13 https://ko-fi.com/s/6811d82416 · Pampered Annual $190 https://ko-fi.com/s/bb6f400aa1 · Free First Taste $0 https://ko-fi.com/s/01029778d7 · Agent catalog https://channel13autoposter.github.io/everbrook-agent-catalog/ · This brief's archive https://channel13autoposter.github.io/trend1ng-brief-archive/
 Watch: Top 13 Universe — the day's biggest verified stories, daily video (a TREND1NG🔥 product): https://www.youtube.com/channel/UCZPKddhOmApI_YaylyQ1skA
