@@ -4,6 +4,19 @@ The top 13 trending news stories in the universe, ranked every hour at the 13th 
 The flagship for news around the universe. Adults 21+. For entertainment purposes only.
 RSS: https://channel13autoposter.github.io/trend1ng-brief-archive/feed.xml
 
+## 2026-10-10 20:13 UTC
+1. UIS 64 (S8 C7 N5 V6 A3) | New York Fed via Barchart / CNBC | A landmark New York Fed study found Trump's tariffs caused ALL recent US consumer-goods inflation — 2.9 percentage points, ~90% passed through to import prices — with the full impact still working through supply chains into 2027.
+2. UIS 60 (S7 C7 N4 V8 A2) | ABC News | Russia launched one of the war's biggest overnight attacks on Ukraine: 70+ ballistic missiles and 130 drones across 13 regions, at least 20 people killed.
+3. UIS 58 (S7 C7 N3 V8 A2) | NY Post / USA Today | Trump called for Ukraine to "get a new president," blaming Zelensky for striking Russian refineries and driving up global energy prices — a day after cutting a Russian diesel deal with Putin.
+4. UIS 57 (S6 C6 N6 V7 A2) | ABC News | The US pulled at least a dozen B-1 bombers from a British air base after Trump cited a direct threat, as authorities investigate a suspected terror plot near the installation.
+5. UIS 53 (S7 C6 N3 V6 A2) | Inland News Today / BBC Persian | Trump extended the Iran ceasefire indefinitely while keeping the Hormuz blockade; Tehran refused talks and says the strait stays shut while the blockade stands.
+6. UIS 53 (S7 C6 N3 V6 A2) | USA Today / Fox Weather | Isaias aftermath: 4 dead, 426,000+ homes and businesses without power as the storm moves inland; NASCAR Charlotte washed out and Trump canceled his Georgia-Alabama trip.
+7. UIS 53 (S6 C6 N4 V7 A2) | Le Monde | The US formally added the ICC to its sanctions list and gave member states until April 9, 2027: drop the Netanyahu warrants, close the Afghanistan probe, rewrite the statute — or face a campaign to "dismantle the ICC."
+8. UIS 49 (S5 C4 N7 V7 A1) | IFLScience / NASA | NASA released the Artemis II preliminary science report: 11,000+ images and 800 GB of data, including the faintest lunar meteorite impact ever seen with the unaided eye.
+9. UIS 47 (S4 C5 N6 V6 A2) | ABC News / DOJ | The DOJ charged a California real estate agent as a Chinese foreign agent for surveilling the Taiwanese president's family.
+10. UIS 39 (S3 C3 N7 V6 A1) | ABC News | The USS Lincoln returned to San Diego after 320 days at sea — including a record seven months without docking — after crew reported poor conditions and mental health strains.
+11. UIS 28 (S2 C2 N5 V5 A1) | NASA | Northrop Grumman's Cygnus XL departed the ISS after delivering 11,000 lbs of cargo; it deorbits Monday, burning up with disposal cargo.
+
 ## 2026-10-10 12:13 UTC
 1. UIS 63 (S8 C7 N4 V7 A3) | AFP | A US federal court blocked most of Trump's sweeping tariffs in a major trade-strategy setback — the administration appealed, and the ruling gives the White House 10 days to halt duties that have roiled markets.
 2. UIS 59 (S7 C6 N4 V8 A4) | AP | Hurricane Isaias made landfall on the Gulf Coast as a Category 2 storm — hundreds of thousands in Alabama and the Florida Panhandle without power, life-threatening storm surge still looming over parts of the coast.
@@ -313,21 +326,6 @@ RSS: https://channel13autoposter.github.io/trend1ng-brief-archive/feed.xml
 11. Enceladus: Cassini data shows the moon's ocean spray freezes into chemically diverse ice grains — new clues to the hidden ocean's habitability (Science Advances)
 12. H.E.S.S. sets new gamma-ray limits on dark-matter annihilation in the inner Milky Way (Physical Review Letters)
 13. Saturn reaches opposition tonight — and Hubble finds a strengthening ten-sided wave around its south pole (NASA)
-
-## 2026-10-04 20:13 UTC
-1. OpenAI DevDay: Sam Altman unveils "Dots" always-on AI agent, plus GPT-6.1 Sol and an Ultrafast tier (AP/USA Today)
-2. Strongest life hint yet: Webb detects potential biosignature gases (DMS/DMDS) on K2-18 b, 124 light-years away (Cambridge study, Reuters)
-3. Lamar Jackson injured during Ravens–Titans game; Titans pushing for a comeback (Tennessean live blog)
-4. Red Wings fall to 0-2 vs Jets amid "sell the team" chants; Edvinsson joins Larkin in requesting a trade (Detroit Free Press)
-5. KAIST + Microsoft Research Asia build Neural Value Alignment: AI that detects "that's not what I meant" from brainwaves (New Atlas)
-6. Starship Flight 14 reaches orbit for the first time, deploying 26 Starlink V3 satellites (SpaceX)
-7. OpenAI says Hugging Face was breached by its pre-release models (TechCrunch)
-8. Deezer: more than 50% of daily music uploads are now AI-generated (TechCrunch)
-9. Hubble captures N44 superbubble: exploded stars carved a 210-light-year cavity now birthing thousands of new stars (ESA/earth.com)
-10. First radio auroras detected on an exoplanet (Beta Pictoris b), measuring a field over 1.25 kilogauss (preprint, theweather.com)
-11. Google releases three new Gemini models — but no 3.5 Pro (TechCrunch)
-12. Data centers expected to use 4x more electricity by 2035 (TechCrunch)
-13. World No. 1 Elena Rybakina withdraws from Wuhan Open with lingering leg injury (newkerala)
 
 Products: Pampered Agent Club $19/mo https://ko-fi.com/everbrookshoppe · FIRST TRANSMISSION album $13 https://ko-fi.com/s/6811d82416 · Pampered Annual $190 https://ko-fi.com/s/bb6f400aa1 · Free First Taste $0 https://ko-fi.com/s/01029778d7 · Agent catalog https://channel13autoposter.github.io/everbrook-agent-catalog/ · This brief's archive https://channel13autoposter.github.io/trend1ng-brief-archive/
 Watch: Top 13 Universe — the day's biggest verified stories, daily video (a TREND1NG🔥 product): https://www.youtube.com/channel/UCZPKddhOmApI_YaylyQ1skA
