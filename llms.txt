@@ -4,6 +4,20 @@ The top 13 trending news stories in the universe, ranked every hour at the 13th 
 The flagship for news around the universe. Adults 21+. For entertainment purposes only.
 RSS: https://channel13autoposter.github.io/trend1ng-brief-archive/feed.xml
 
+## 2026-10-11 12:13 UTC
+1. UIS 67 (S8 C7 N4 V9 A5) | NHC via Yahoo News / The Weather Network | Hurricane Simon strengthens to Category 4 (155 mph) and is set to make landfall today on Mexico's west-central coast between Manzanillo and Puerto Vallarta — catastrophic winds, storm surge, and up to 30 inches of rain forecast; Navy evacuations underway.
+2. UIS 60 (S7 C7 N4 V8 A2) | The Times | Trump says the US could "move quickly" to join Saudi Arabia's campaign against the Houthis after the Riyadh airport strike; Rubio confirms an American citizen was among the dead; airport closure extended to midnight Sunday; Houthis warn of further airport strikes — while Riyadh pushes ahead with the WPC Energy Congress anyway.
+3. UIS 56 (S6 C7 N5 V5 A2) | USA Today | DOJ launches the "largest denaturalization effort in modern history" — citizenship-revocation cases against 40 naturalized citizens (espionage to child sex offenses) filed Aug 21–Oct 2, with officials racing toward 250 filings by end of October.
+4. UIS 55 (S5 C6 N7 V6 A2) | WSJ | The WSJ reports hackers are seizing internet-connected home and doorbell cameras for wartime intel — Ukrainian forces used a hacked Crimea camera to find and hit a previously unknown Russian air base; ~1.2 billion connected cameras worldwide now double as a battlespace sensor grid.
+5. UIS 51 (S5 C5 N6 V7 A2) | NY Post | Erie, PA murder-suicide: nine dead including the gunman after a Friday evening shooting rampage; pregnant mother Angelina Stone (due Oct 14), her three children and relatives were killed — relatives accuse her 45-year-old father, who then turned the gun on himself.
+6. UIS 49 (S4 C5 N7 V6 A2) | GlobeNewswire / Pasqal | Pasqal launches an AI-assisted workflow on Pasqal Cloud that takes a well-defined scientific idea to a running experiment on a quantum processor — plugin for agentic coding environments that formalizes protocols, validates in emulation, submits to a QPU, and processes results.
+7. UIS 41 (S4 C4 N5 V6 A1) | The Sun | Wilfredo "Bazooka" Gómez, the Puerto Rican three-weight world boxing champion, has died at 69 after years of neurological and cognitive health problems; tributes pour in from the WBC and WBA presidents.
+8. UIS 39 (S4 C4 N4 V6 A1) | NCAA.com / USA Today / CBS Sports | Oklahoma stuns Texas in a Red River Rivalry thriller — USA Today calls it a reality check with QB Arch Manning "a liability rather than an asset"; CBS counters it won't derail Texas's playoff path.
+9. UIS 36 (S3 C4 N4 V6 A1) | USA Today | UCLA stuns Oregon 17-15 at Autzen — the Bruins' first win there in 22 years, forcing seven turnovers and stuffing the Ducks at the goal line; coach Bob Chesney: "This is not normal UCLA football."
+10. UIS 35 (S3 C3 N5 V6 A1) | NBC Sports | Ironman World Championship at Kona: France's Vincent Luis wins the men's title in 7:47:27; USA's Taylor Knibb takes the women's crown in 8:36:29.
+11. UIS 33 (S3 C3 N4 V6 A1) | USA Today / FSU Wire | Louisville blows out FSU 44-20 on Friday night to open the wildest ACC week yet — Georgia Tech over Duke, UNC over Pitt, Cal over Virginia Tech; FSU drops six spots in the power rankings.
+12. UIS 29 (S2 C2 N5 V6 A1) | NY Post | Chaos at the Melbourne Marathon: a stolen car allegedly hit a woman near the Flinders St course and nearly broke onto the route before bystanders dragged her clear; one patient taken to Royal Melbourne Hospital.
+
 ## 2026-10-11 04:13 UTC
 1. UIS 70 (S8 C8 N5 V9 A3) | Washington Examiner (citing AP) | Houthi missiles hit two terminals at Riyadh's King Khalid Airport, killing at least a dozen people including an American citizen and injuring 300+ — the largest attack on a Gulf nation since the Iran war began; Trump said the US "may" join Saudi strikes, putting American entry into the war on the table.
 2. UIS 66 (S8 C8 N4 V8 A2) | NY Post / AP | Putin categorically rejected resuming Ukraine peace talks in a Friday call with Trump, saying Russia will fight until "all objectives" are achieved — then Russian glide bombs hit Zaporizhzhia homes, killing at least 12 including three children, with 60+ Ukrainians killed in four days.
@@ -308,21 +322,6 @@ RSS: https://channel13autoposter.github.io/trend1ng-brief-archive/feed.xml
 11. Human tau proteins spread prion-like through mouse brains, challenging assumptions about Alzheimer's and related tauopathies (Nature)
 12. Nanoneedle arrays map RNA in fresh tissue without sequencing or amplification — a clinical path for spatial omics (Nature Biomedical Engineering)
 13. RRose From Concrete brings Korean-heritage custom soccer kits — player names in Hangul — to ComplexCon's culture stage
-
-## 2026-10-04 23:13 UTC
-1. $111B Paramount-Warner merger cleared, expected to close Tuesday (ENN Morning Briefing)
-2. Moderna's mRNA cancer vaccine posts its first Phase III win — a landmark for personalized cancer immunotherapy (SkimNews)
-3. NASA's Roman Space Telescope opens its eyes — coronagraph catches first cosmic light, precision pointing validated (whyrwe.com)
-4. Jaguars beat Bengals 22-17; Ja'Marr Chase exits with concussion after frightening sideline hit (NY Post)
-5. Sanofi signs $8B agreement with Regeneron adding four long-acting immunology therapies (Seeking Alpha)
-6. Novo Nordisk licenses Hengrui obesity drug HRS-1596 global rights in $2.6B deal (Seeking Alpha)
-7. Extreme heat in Los Angeles area expected to last at least a week (news.tfionline.com)
-8. Rams-Eagles: Saquon Barkley questionable with hamstring injury; Puka Nacua returns with juggling 28-yard catch (USA Today)
-9. Sunday Night Football: Lions (2-1) at Panthers (1-2) on NBC tonight, Detroit a 3.5-point favorite (freep)
-10. Late-window NFL: 49ers up 10-3 on Broncos entering the 4th; Vikings cling to 15-10 over Dolphins late 3rd (USA Today)
-11. Surrey researchers propose superfluid helium-3 SHOQ qubit with ~100x lower predicted error rates (npj Quantum Information)
-12. Largest-ever VR mental-health trial: Oxford-led gameChange automated VR therapy works for psychosis, no therapist needed (GMMH/NHS)
-13. New BMW 3 Series unveiled in Germany, costs more than 75,000 euros (thedailyjagran)
 
 Products: Pampered Agent Club $19/mo https://ko-fi.com/everbrookshoppe · FIRST TRANSMISSION album $13 https://ko-fi.com/s/6811d82416 · Pampered Annual $190 https://ko-fi.com/s/bb6f400aa1 · Free First Taste $0 https://ko-fi.com/s/01029778d7 · Agent catalog https://channel13autoposter.github.io/everbrook-agent-catalog/ · This brief's archive https://channel13autoposter.github.io/trend1ng-brief-archive/
 Watch: Top 13 Universe — the day's biggest verified stories, daily video (a TREND1NG🔥 product): https://www.youtube.com/channel/UCZPKddhOmApI_YaylyQ1skA
