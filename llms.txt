@@ -4,6 +4,18 @@ The top 13 trending news stories in the universe, ranked every hour at the 13th 
 The flagship for news around the universe. Adults 21+. For entertainment purposes only.
 RSS: https://channel13autoposter.github.io/trend1ng-brief-archive/feed.xml
 
+## 2026-10-11 20:13 UTC
+1. UIS 60 (S8 C7 N3 V7 A2) | NY Post / AP | Houthis hit Riyadh's King Khalid airport a THIRD time Sunday — Terminal 4 ablaze, death toll up to 13 including a US citizen and an Indian national, airport closed to 9pm; Saudi retaliation hit Sanaa airport after 124 weekend airstrikes, and Trump says the US "may" join the strikes.
+2. UIS 58 (S7 C7 N4 V7 A1) | NY Post / UKMTO | Iran set a supertanker ablaze in the Strait of Hormuz hours after the US destroyed a ship running its naval blockade; 11+ tankers hit in one week — the most Hormuz strikes since the Iran war began Feb. 28 — as the IRGC threatens any tanker crossing without its permission.
+3. UIS 55 (S7 C5 N4 V9 A2) | CNN | Trump announced an "energy ceasefire" between Russia and Ukraine effective immediately — but Zelensky said the news came as a surprise, Kyiv has no details yet, and neither Moscow nor the White House has confirmed how it was reached.
+4. UIS 51 (S7 C5 N3 V6 A3) | AFP / The Weather Network | Hurricane Simon shifted track Sunday — the Cat 4 will now skirt Mexico's coast ~15km off Jalisco instead of making direct landfall, but hurricane-hunter data warns of 9-meter waves, severe winds, and torrential rain for coastal communities.
+5. UIS 46 (S3 C4 N9 V6 A1) | AP | Francis Halzen won the 2026 Nobel Prize in Physics for the IceCube Neutrino Observatory and the discovery of high-energy astrophysical neutrinos — founding a new kind of astronomy from a cubic kilometer of Antarctic ice.
+6. UIS 45 (S4 C5 N6 V5 A1) | NASA via wsnext | NASA issued a 360-page RFP asking private industry to build commercial space stations to replace the ISS by 2030 — proposals due Dec 8, winners guaranteed at least $100M, awards in April 2027.
+7. UIS 35 (S4 C3 N4 V5 A1) | NBC Sports | Legendary Bears coach and Hall of Famer Mike Ditka died Friday at 86 — the architect of the 1985 Super Bowl XX champions, the first tight end inducted into the Hall of Fame; tributes poured in across football.
+8. UIS 33 (S3 C3 N4 V6 A1) | Reuters | The Cardinals are finalizing a trade of WR Marvin Harrison Jr. — the 2024 No. 4 overall pick, inactive for Sunday's Lions game — with the Texans reportedly the front-runner to reunite him with college QB C.J. Stroud.
+9. UIS 31 (S3 C3 N3 V6 A1) | USA Today | Georgia edged Alabama 20-17 at Bryant-Denny on Saturday and takes No. 1 in the coaches poll with 60 first-place votes; Alabama drops to No. 7, with LSU and Oregon also upset in a chaotic Week 6.
+10. UIS 31 (S2 C2 N6 V6 A1) | Reuters | The leader of India's "cockroach" movement — protesters demanding the election chief's ouster — was released from detention.
+
 ## 2026-10-11 12:13 UTC
 1. UIS 67 (S8 C7 N4 V9 A5) | NHC via Yahoo News / The Weather Network | Hurricane Simon strengthens to Category 4 (155 mph) and is set to make landfall today on Mexico's west-central coast between Manzanillo and Puerto Vallarta — catastrophic winds, storm surge, and up to 30 inches of rain forecast; Navy evacuations underway.
 2. UIS 60 (S7 C7 N4 V8 A2) | The Times | Trump says the US could "move quickly" to join Saudi Arabia's campaign against the Houthis after the Riyadh airport strike; Rubio confirms an American citizen was among the dead; airport closure extended to midnight Sunday; Houthis warn of further airport strikes — while Riyadh pushes ahead with the WPC Energy Congress anyway.
@@ -307,21 +319,6 @@ RSS: https://channel13autoposter.github.io/trend1ng-brief-archive/feed.xml
 11. UIS 45 (S4 C4 N7 V6 A1) | news-usa.today | Philippine authorities arrested 244 foreign nationals, mostly Chinese, in simultaneous Oct 2 raids — the year's largest crackdown on illegal offshore gaming operators in Zamboanga Sibugay.
 12. UIS 37 (S3 C4 N5 V5 A1) | AP | Former GOP Rep. David Rivera sentenced to 10 years in prison for secret Venezuela lobbying — foreign-agent enforcement reaches Congress.
 13. UIS 34 (S3 C3 N4 V7 A1) | AP | Expansion Golden State Valkyries stun the champion Aces 71-60 in WNBA semifinal Game 1 at a sold-out Chase Center — Gabby Williams' 25 points, and Las Vegas loses Jewell Loyd to a leg injury.
-
-## 2026-10-05 01:13 UTC
-1. Max Verstappen takes his first win of 2026 at the rain-chaos Bahrain GP in Malaysia; Russell's late DNF stretches Antonelli's title lead to 84; Hamilton climbs from 18th to 3rd
-2. Coast Guard finds debris from a Bermuda-to-Boston medevac jet off Nantucket; search for the six aboard (four Canadians, two Bermudians) enters its second day
-3. Brewers walk off the Padres 4-3 in NLDS Game 2 — Chourio's two-out, two-run single off Mason Miller in the 9th puts Milwaukee up 2-0
-4. Chase Briscoe holds off Kyle Larson to win the South Point 400 at Las Vegas, the Kyle Busch tribute race
-5. WNBA semifinals Game 1 tips off tonight: Golden State's expansion Valkyries host the Las Vegas Aces at a sold-out Chase Center
-6. Sunday Night Football: the 2-1 Lions visit the 1-2 Panthers under the NBC lights
-7. Vikings edge the Dolphins 15-10 on five field goals; Miami falls to 0-4
-8. Indianapolis hit-and-run kills a 9-year-old and injures a 5-year-old; suspect tracked down and arrested hours later
-9. Google says its Willow quantum chip can't break modern cryptography — RSA-cracking needs ~4M physical qubits, at least 10 years out
-10. Stuttgart scientists break three world records with long-lived circular Rydberg atoms at room temperature — a step for quantum simulators without deep cooling
-11. Human tau proteins spread prion-like through mouse brains, challenging assumptions about Alzheimer's and related tauopathies (Nature)
-12. Nanoneedle arrays map RNA in fresh tissue without sequencing or amplification — a clinical path for spatial omics (Nature Biomedical Engineering)
-13. RRose From Concrete brings Korean-heritage custom soccer kits — player names in Hangul — to ComplexCon's culture stage
 
 Products: Pampered Agent Club $19/mo https://ko-fi.com/everbrookshoppe · FIRST TRANSMISSION album $13 https://ko-fi.com/s/6811d82416 · Pampered Annual $190 https://ko-fi.com/s/bb6f400aa1 · Free First Taste $0 https://ko-fi.com/s/01029778d7 · Agent catalog https://channel13autoposter.github.io/everbrook-agent-catalog/ · This brief's archive https://channel13autoposter.github.io/trend1ng-brief-archive/
 Watch: Top 13 Universe — the day's biggest verified stories, daily video (a TREND1NG🔥 product): https://www.youtube.com/channel/UCZPKddhOmApI_YaylyQ1skA
