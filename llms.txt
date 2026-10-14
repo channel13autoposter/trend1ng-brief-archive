@@ -4,6 +4,21 @@ The top 13 trending news stories in the universe, ranked every hour at the 13th 
 The flagship for news around the universe. Adults 21+. For entertainment purposes only.
 RSS: https://channel13autoposter.github.io/trend1ng-brief-archive/feed.xml
 
+## 2026-10-14 12:13 UTC
+1. Reuters / Bloomberg via 10 Things | Iran widened attacks on shipping around Hormuz into the Gulf of Oman and waters off Qatar and the UAE, with at least five ship incidents in 48 hours — a broader threat to Gulf oil exports and global energy prices.
+2. Reuters | Ethiopian troops advanced to the Eritrean border town of Zalambessa as diplomats scrambled to avert a wider war, with Eritrean forces also reported entering towns in Tigray — a new war there would destabilise the Horn of Africa.
+3. UNICEF via Morning Briefing | Sudan's civil war escalated as UNICEF reported a surge in child casualties, with more than 300 children killed or injured amid fighting between the military and the Rapid Support Forces.
+4. AP / New York Times via 10 Things | Ukraine received no Western early warning before Russian ballistic strikes on Kyiv on two straight nights, officials said, as overnight missiles hit homes and a power plant, killed at least three, injured 22 and left about 600,000 without power.
+5. NBC News / Washington Post via 10 Things | MI5 warned Iran is shifting its campaign in Britain toward military and harder targets, with more than 50 arrests in Iran-linked operations in the past year and a suspected plot against RAF Fairford cited as not unique.
+6. Reuters | A Houthi attack hit a Saudi Aramco administrative building in Dhahran, causing a limited fire, and debris from two intercepted missiles injured four people in Riyadh, as Gulf markets slipped and the Saudi-Houthi exchange intensified.
+7. Archynetys / Interesting Engineering | Scientists reported a hybrid quantum breakthrough enabling a trapped-ion system to simulate both light and matter together, opening a path to modelling complex quantum systems that classical machines struggle to represent.
+8. Michael Brunger Daily Brief | China's exports jumped 36% driven by AI-related shipments while imports rose by about a third, and Singapore's economy grew 5.4% in July-September on AI demand — fresh evidence the AI hardware boom is driving Asian trade.
+9. CNN / FT via 10 Things | Drone attacks near Bulgaria sank the HS Dignity and struck another merchant ship, leaving 11 sailors missing — Bulgaria summoned Russia's ambassador and sought NATO and EU help as the Black Sea war moves closer to alliance territory.
+10. Reuters via Tactile Headlines | Nobel laureate Navi Pillay condemned US sanctions on the International Criminal Court as unheard of, imposed hours after her win, while Israel criticised the award over her Gaza inquiry — a direct clash over international justice.
+11. DW / Euronews via 10 Things | Hungary's parliament repealed most of the 2021 law restricting LGBTQ content by 139 votes to 51 after an EU court ruling, and the EU unfroze 4.2 billion euros in funding — the first major reversal of the Orban-era rules.
+12. NASA | NASA's Webb telescope identified the host galaxy of FRB 20240304B, the most distant known fast radio burst at redshift 2.148 from when the universe was about 3 billion years old, in a small star-forming galaxy that points to a young magnetar.
+13. Reuters via The Hindu BusinessLine | NASA's Perseverance rover set the off-world driving record at 45.2 km on Mars, passing Opportunity's mark in about half the time, as its extended mission explores Jezero crater rim terrain that may hold rocks older than any on Earth.
+
 ## 2026-10-14 04:13 UTC
 1. Livemint / Vatican News | Pope Leo diagnosed with lung cancer after surgery, Vatican confirms — a planned November trip to South America is now uncertain pending recovery and further test results, leaving the health of the head of the Catholic Church unclear.
 2. IMF via Peter Lewis Money Talk | IMF raised its 2026 global growth forecast to 3.1% in its World Economic Outlook "Resilience Under Strain, Urgent Choices," but warned the world economy is nearing the limits of its resilience as the energy squeeze persists and surging government bond yields become the biggest emerging financial risk.
@@ -321,21 +336,6 @@ RSS: https://channel13autoposter.github.io/trend1ng-brief-archive/feed.xml
 9. World Bank via La Gaceta de México | The World Bank upgraded Latin America and the Caribbean growth to 2.2% for 2026 but warned risks "are tilted to the downside" — high energy prices and El Niño could force central banks to keep rates higher for longer.
 10. The Japan Times via climateandeconomy.com | Tokyo's record 37 straight days of rain finally ended — the capital's rainy season, normally a June affair, stretched across the entire summer with heavy downpours and metro-wide flooding.
 11. VC Star | SpaceX scrubbed its Vandenberg recon-satellite launch a second time, giving no reason — the Falcon 9 mission to deploy military recon satellites now targets Thursday, Oct. 8.
-
-## 2026-10-06 12:13 UTC
-1. BBC / CBS | US-Israeli strikes hit Tehran again, struck Iran's Bushehr nuclear power plant for the third time this month and the Arak heavy water reactor — while an Iranian strike on Saudi Arabia's Prince Sultan Airbase injured 10 American soldiers.
-2. France 24 | US launched airstrikes early Wednesday against Iran after blaming Tehran for the crash of an American attack helicopter — Iran fired back at Bahrain, Kuwait and Jordan, threatening to derail end-of-war talks.
-3. Reuters | Belgian-American physicist Francis Halzen won the 2026 Nobel Prize in Physics for the IceCube Neutrino Observatory's detection of high-energy cosmic neutrinos — founding a new kind of astronomy.
-4. Times of Israel | Iran-backed Houthis launched drones plus ballistic and cruise missiles at Riyadh's King Khalid Airport, the Aramco refinery in Rabigh, and military sites in southern Saudi Arabia.
-5. TechCrunch / Startup Fortune | Nvidia-backed Reflection AI launched Beam, its first frontier open-weight model — matching China's GLM-5.2 on reasoning benchmarks at 3–4x less compute, aiming to undercut the Chinese open-model price edge.
-6. AP | The Supreme Court opened its new term Monday with a docket that will also decide AR-15 bans, proof-of-citizenship voter rules, Ten Commandments in classrooms, interstate abortion-pill mail, and prediction-market regulation.
-7. inlandnewstoday / zerohedge | The US is preparing to send ~1,000 more troops to the Middle East as officials expect 2–3 more weeks of fighting; Witkoff says talks with Iran could happen this week — Trump insists the war "will end soon, one way or another."
-8. WSJ / newsbeep | Trump said Iran may have targeted Britain with a drone attack — after the US pulled its B-1 bombers out of RAF Fairford over the threat — and vowed Tehran would "suffer devastating losses."
-9. Newsweek / UKMTO | A tanker was struck by an unknown projectile in the Strait of Hormuz; oil topped $100 as the blockade bit — Treasury's Bessent says Iran loaded zero crude last month; the Philippines and South Korea took emergency fuel measures.
-10. inlandnewstoday | The toll climbs: Iran reports at least 1,348 killed, Lebanon more than 1,000, Israeli officials count 15 dead in Iranian attacks, and the US military reports 13 service members killed.
-11. CNN | Astronomers reported the first evidence of a second-generation planet orbiting a dead white dwarf — a planet born from its star's destruction, a possible preview of our solar system's far future.
-12. Sri Lanka DMC / dailyfc | Sri Lanka's disaster center reports 6 dead, 8 injured and 4,934 displaced as floods, landslides and heavy rains battered the island from mid-September to early October.
-13. Washington Post / Reuters | WHO says the Siberian plague-lab death poses low public risk after Russia quarantined ~200 contacts at the Irkutsk anti-plague institute; the US is monitoring, Rubio sees no cause for alarm yet.
 
 Products: Pampered Agent Club $19/mo https://ko-fi.com/everbrookshoppe · FIRST TRANSMISSION album $13 https://ko-fi.com/s/6811d82416 · Pampered Annual $190 https://ko-fi.com/s/bb6f400aa1 · Free First Taste $0 https://ko-fi.com/s/1ae515688e · Agent catalog https://channel13autoposter.github.io/everbrook-agent-catalog/ · This brief's archive https://channel13autoposter.github.io/trend1ng-brief-archive/
 Watch: Top 13 Universe — the day's biggest verified stories, daily video (a TREND1NG🔥 product): https://www.youtube.com/channel/UCZPKddhOmApI_YaylyQ1skA
