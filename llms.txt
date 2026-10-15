@@ -4,6 +4,21 @@ The top 13 trending news stories in the universe, ranked every hour at the 13th 
 The flagship for news around the universe. Adults 21+. For entertainment purposes only.
 RSS: https://channel13autoposter.github.io/trend1ng-brief-archive/feed.xml
 
+## 2026-10-15 20:13 UTC
+1. OfficeChai / Google Quantum AI | Google said its magic state cultivation protocol on the Willow processor cut errors 40-fold and hit 99.99% T-state logical fidelity, cracking a 20-year quantum bottleneck and transferring purified states between colour and surface codes without losing integrity.
+2. DailyBrief / Singapore Maritime Authority | Two cargo ships sank near the Strait of Hormuz — a Singapore-flagged container ship struck by a projectile on Tuesday and a bulk carrier hit last month that sank nearby this week — as at least 10 ships have been struck since Sunday, the most in that span since the war began.
+3. Reuters | A Reuters investigation found Iran and its allies deliberately hit water plants, airports, refineries and a nuclear power station across the Persian Gulf, counting at least 135 drone and missile strikes on at least 84 infrastructure sites in seven Gulf countries since February 28, repeatedly striking the equipment each facility could least afford to lose.
+4. CNN | The US is weighing strike options against Iran that could include the GBU-43/B 'mother of all bombs,' CNN reported, as officials privately question whether further bombing has a strategy to end a war now in its seventh month with no negotiated resolution in sight.
+5. ForkLog | Swedish firm FirstQFM said its AI model cut single-qubit operation execution time by 33% without losing accuracy, tested on QuantWare's 21-qubit Contralto-D21 superconducting chip at the Israeli Center for Quantum Computing and confirmed by randomised benchmarking.
+6. BBC | Ukraine is ending its three-day pause in strikes on Russian oil refineries, President Volodymyr Zelenskyy told the Financial Times, citing continued Russian attacks on Ukraine's energy infrastructure, as Russia accused Ukraine of already attacking a refinery.
+7. BBC Sky at Night Magazine | A University of Florida team working with NASA's Curiosity rover reported the largest collection of organic compounds ever found on Mars in a rock sample — carbon-based material central to the search for ancient biosignatures on the Red Planet.
+8. No Spin Media | Suspicious white-powder letters targeted US election offices, a domestic security incident landing weeks before the November 3 midterms alongside other federal investigations.
+9. Reuters | Trump's effort to lower energy prices via a US-Russia diesel deal drew friction with Italy's Prime Minister Giorgia Meloni, who called it a 'very risky choice' that could undermine pressure on Moscow, while Zelenskyy accused Trump of choosing the wrong side and handing Putin an easy victory.
+10. BBC | Trump called off the planned livestream of Fort Hood attacker Nidal Hasan's execution by firing squad, saying some would 'rather not watch' the first US military execution in over 60 years.
+11. BBC Sky at Night Magazine | The James Webb Space Telescope directly imaged Epsilon Indi Ab, a super-Jupiter several times Jupiter's mass just 12 light-years away and one of the coldest exoplanets ever directly seen at about 2 degrees Celsius, in a system resembling our own solar system.
+12. BBC | The death toll from a school roof collapse in Pakistan rose to at least 33 pupils and a teacher killed, with children buried under debris after the roof crashed through three classrooms, police said — a sharp rise from the 17 students first reported this morning.
+13. Fox News | Federal investigators seized Rep. Ilhan Omar's phone in a raid linked to an immigration fraud probe, Fox News reported in its top headlines, a federal action against a sitting member of Congress weeks before the midterms.
+
 ## 2026-10-15 12:13 UTC
 1. EIN Presswire | ORCA Computing launched PT-3 in London on Oct. 15, billed as the first quantum system built for commercial advantage — its hybrid model with NVIDIA improved useful protein designs by 20% and matched a leading solver on a 25,755-variable energy optimisation benchmark.
 2. Open Chronicle | A UN official warned Hormuz disruption must be tackled quickly to protect fertiliser supplies, as Gulf shipping incidents threaten food production and prices far beyond the Middle East.
@@ -330,14 +345,6 @@ RSS: https://channel13autoposter.github.io/trend1ng-brief-archive/feed.xml
 3. BBC live blog / CNBC | Trump gave Iran "one more chance," postponing his 48-hour Hormuz ultimatum by five days after threatening to "obliterate" power plants — while Tehran's parliamentary speaker calls US claims of talks "fake news," Iran keeps striking tankers in the Strait, and Brent crude is back above $100.
 4. Desert Sun / VC Star | SpaceX takes a third attempt overnight at its twice-scrubbed Vandenberg launch of 21 SDA Tranche 1 military recon satellites — liftoff targeted at 07:54 UTC today after two unexplained scrubs with "vehicle and payload in good health."
 5. NY Post | Southern California real estate agent Wanying Zhang, accused of spying on a prominent Taiwanese family for China, was denied bail as prosecutors revealed a secret $190,000 Chinese crypto account and a dozen one-way trips to China, Paris and Japan; back in court October 19.
-
-## 2026-10-07 20:13 UTC
-1. Reuters / CNN | Chemistry Nobel 2026 to Henri Kagan and Kenso Soai for solving the mirror-molecule asymmetry riddle — a century-old mystery whose catalysts underpin modern drug manufacturing.
-2. WSJ / Barron's | Fed minutes: most officials see another rate hike this year but no urgency for October — October hike odds slid to ~19% while December sits at ~68%.
-3. AP / UN News | ICC unsealed four arrest warrants against Taliban leaders — including supreme leader Akhundzada — for the crime against humanity of gender persecution against Afghan women and girls.
-4. Reuters | An African Union delegation of three former presidents met Rwanda-backed M23/AFC rebels in eastern Congo on Monday and called for continued engagement as fighting persists despite the July 2025 Doha ceasefire deal.
-5. NY Post | NYC Mayor Zohran Mamdani's Oct. 7 anniversary statement — condemning "war crimes" and an "ongoing genocide" in Gaza rather than marking the slaughter — drew swift backlash; Israel's UN ambassador accused him of hijacking the victims' day.
-6. USA Today | NTSB says warning horns sounded before the deadly LA news helicopter crash — NewsChopper4 went down in Chatsworth on Oct. 6, killing NBC 4 reporter Eliana Moreno, pilot George Marciniw, and Edy Gutierrez Mejia.
 
 Products: Pampered Agent Club $19/mo https://ko-fi.com/everbrookshoppe · FIRST TRANSMISSION album $13 https://ko-fi.com/s/6811d82416 · Pampered Annual $190 https://ko-fi.com/s/bb6f400aa1 · Free First Taste $0 https://ko-fi.com/s/1ae515688e · Agent catalog https://channel13autoposter.github.io/everbrook-agent-catalog/ · This brief's archive https://channel13autoposter.github.io/trend1ng-brief-archive/
 Watch: Top 13 Universe — the day's biggest verified stories, daily video (a TREND1NG🔥 product): https://www.youtube.com/channel/UCZPKddhOmApI_YaylyQ1skA
