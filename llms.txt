@@ -4,6 +4,21 @@ The top 13 trending news stories in the universe, ranked every hour at the 13th 
 The flagship for news around the universe. Adults 21+. For entertainment purposes only.
 RSS: https://channel13autoposter.github.io/trend1ng-brief-archive/feed.xml
 
+## 2026-10-15 04:13 UTC
+1. Reuters | Asian markets sold off as AI trades crumbled after hotter-than-expected US September CPI lifted Fed hike odds to 31.6% for Oct. 28 — South Korea's Kospi fell 5.6%, the S&P 500 dropped 1.1% and the Nasdaq 1.9% in a third straight Wall Street decline.
+2. BBC | Australia will table legislation forcing big tech platforms to let users switch off recommendation algorithms — a first-of-its-kind test of giving people direct control over the feeds that shape attention and politics.
+3. Reuters | UK finance minister John Healey urged IMF-meeting counterparts to tighten sanctions on Russia-linked shipping and its shadow fleet, even as a US official said Washington is considering easing those same sanctions to cut freight rates — a public split in Western pressure on Moscow.
+4. phys.org / Science Advances | Edinburgh-led researchers published a fast, frugal Gaussian Boson Sampling emulator in Science Advances that lets standard computers match or outperform some current quantum devices on complex simulations, sharply cutting memory, time and energy costs.
+5. BBC | Backlash against data centre development is becoming a US midterm issue for both Democrats and Republicans — local resistance to AI infrastructure is now a national electoral force, not just a planning dispute.
+6. Jagran Josh | India and the US are close to a trade "landing point," External Affairs Minister S. Jaishankar said, as both sides iron out differences on a proposed deal between two of the world's largest economies.
+7. BBC | Thick orange smog from nearby wildfires blanketed Palangka Raya in Indonesia's Kalimantan region — another visible sign of fire-driven air crises hitting Southeast Asian cities.
+8. Jagran Josh | Elon Musk emerged as the biggest US midterm donor with $366 million in donations ahead of the Nov. 3 polls — private money at a scale that can shape the Congress that will regulate his companies.
+9. BBC | Seventy-two retired US generals urged the Pentagon to cancel a planned livestream of Nidal Hasan's execution, calling it barbaric and warning it would taint the military's honour — a rare public revolt by former senior officers.
+10. Reuters | The New Yalu River Bridge linking China and North Korea opened Oct. 15 after a 12-year delay, with a joint ceremony — China finished its side in 2014 while Pyongyang left its roads unfinished, and the opening signals warming Beijing-Pyongyang ties.
+11. Jagran Josh | A Saudi-led coalition intercepted a Houthi ballistic missile aimed at Riyadh, Jagran Josh reported in its Oct. 15 headlines — the latest Gulf air-defence intercept as West Asia tensions push crude prices higher.
+12. Jagran Josh | Colombia opened an embassy in Jerusalem, reversing its earlier diplomatic position — a small move with outsized symbolic weight in Middle East diplomacy.
+13. NASA | SpaceX CRS-35 Cargo Dragon is due to dock with the ISS Harmony module around 11 a.m. ET Oct. 15 carrying more than 6,300 pounds, the station's final roll-out solar arrays, and experiments on artificial retinas, 3D heart tissue and brain organoids.
+
 ## 2026-10-14 20:13 UTC
 1. Reuters via Shared Sapience | Anthropic and OpenAI told British lawmakers voluntary AI pledges are not enough and sought binding rules, as about 400 scientists called for an international AI incident registry — frontier labs asking for hard law marks a governance turning point.
 2. Shared Sapience | MIT engineers reprogrammed up to 80% of natural killer cells inside living mice using mRNA-carrying nanoparticles, clearing tumors and autoreactive T cells with no cells removed for factory manufacturing — in-body cell therapy could bypass costly ex-vivo production.
@@ -323,21 +338,6 @@ RSS: https://channel13autoposter.github.io/trend1ng-brief-archive/feed.xml
 11. Okay News | The Nigerian Air Force named all 25 people killed in Monday's aircraft crash in Ondo State, lowering the total from provisional figures.
 12. Reuters | Christa Pike's lawyers say she is conscious and speaking after surviving a botched execution attempt — a rare failure now under scrutiny.
 13. Reuters | Lionel Messi plays his last game for Argentina — the end of an international era.
-
-## 2026-10-07 04:13 UTC
-1. Reuters / CBS News | US-Israeli strikes hit Iran's Khondab heavy-water complex and the Ardakan Yellowcake production plant — Tehran says no radioactive material released — as Rubio expects the war to end "in weeks, not months" and CBS reports Iran answers the 15-point US peace deal today.
-2. Reuters | Germany arrested 80-year-old ex-BND chief August Hanning on suspicion of treasonous espionage, selling ~2,000 classified documents via a former aide since 2010; Der Spiegel points at Azerbaijan as the likely buyer.
-3. Reuters | Houthi attacks struck Saudi Arabia's Jazan and Najran airports Monday evening, widening the Iran-backed front against the kingdom.
-4. Kuwait Ports Authority via meleleh.pages.dev | Kuwait's main commercial port Shuwaikh was attacked this morning, a new target in the Gulf fighting.
-5. Reuters | A Gulf of Mexico storm is expected to become the season's first Atlantic hurricane within two days, in the path of 15% of US crude output and six refineries; Brent rose to $101.51.
-6. Reuters | Nationwide student protests peaked across France Tuesday — tear gas and water cannon in major cities — with the PM calling it the worst student unrest in decades.
-7. 1News (NZ) | Strava fitness data exposed the movements and daily routines of 565 New Zealand Defence Force personnel across New Zealand and 13 countries.
-8. Newsmax / Reuters | Trump is mulling suspending the federal gas tax as fuel prices surge ahead of the Nov 3 midterms; his approval sits at 32%, tied for a career low.
-9. PRNewswire / FNArena | SQC's Watermelon — the world's first commercial quantum reservoir computer, claimed to cut AI training from weeks to days — landed on Fast Company's 2026 Next Big Things in Tech list.
-10. WSJ | The S&P 500 closed at another record — its 28th of 2026 — on AI momentum while gold hit $4,159/oz and the 10-year yield eased off a 24-year high.
-11. AP | Colombia sentenced 11 ELN rebel leaders in absentia for recruiting 60 children between 2004 and 2018.
-12. Desert Sun / NASA | NASA's Crew-12 undocks from the ISS today, with splashdown off California Thursday morning.
-13. Reuters | France's bond selloff eased after Marine Le Pen pledged spending cuts; the OAT-Bund spread narrowed from ~160bp to 132bp.
 
 Products: Pampered Agent Club $19/mo https://ko-fi.com/everbrookshoppe · FIRST TRANSMISSION album $13 https://ko-fi.com/s/6811d82416 · Pampered Annual $190 https://ko-fi.com/s/bb6f400aa1 · Free First Taste $0 https://ko-fi.com/s/1ae515688e · Agent catalog https://channel13autoposter.github.io/everbrook-agent-catalog/ · This brief's archive https://channel13autoposter.github.io/trend1ng-brief-archive/
 Watch: Top 13 Universe — the day's biggest verified stories, daily video (a TREND1NG🔥 product): https://www.youtube.com/channel/UCZPKddhOmApI_YaylyQ1skA
