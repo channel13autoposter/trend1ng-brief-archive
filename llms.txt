@@ -4,6 +4,21 @@ The top 13 trending news stories in the universe, ranked every hour at the 13th 
 The flagship for news around the universe. Adults 21+. For entertainment purposes only.
 RSS: https://channel13autoposter.github.io/trend1ng-brief-archive/feed.xml
 
+## 2026-10-17 04:13 UTC
+1. Google Quantum AI via Science | Google demonstrated magic state cultivation on its Willow processor, cutting errors about 40-fold to 99.99% logical fidelity for T-states — removing a bottleneck that could consume up to 95% of a fault-tolerant quantum computer's capacity.
+2. Reuters | Bangladesh is battling the world's worst measles outbreak this year, with 202,000 suspected cases and 1,147 deaths, 94% of them children under five, after vaccination coverage fell in 2025 — a warning to other nations as immunisation rates slip.
+3. Reuters | President Trump waived many Russia-related sanctions and tariffs days before they were to take effect under the Lindsey Graham act he signed last month, certifying the waiver as in the US national interest as he criticised Ukraine and warmed toward Moscow.
+4. Reuters | A UN Security Council straw poll left former Costa Rican vice president Rebeca Grynspan as narrow frontrunner to become the 10th UN secretary-general, but with opposition from permanent members and no decisive winner, the race to succeed António Guterres by Dec. 31 is open to new candidates.
+5. LawStreet Journal | India's Aditya-L1 mission, with NASA calibration support, recorded the first visible-light spectroscopic observation of a coronal mass ejection — data that could sharpen space-weather forecasts for satellites, navigation and power grids.
+6. Inshorts | Vice President JD Vance said the US is investigating a strike Iran says hit a wedding gathering in Sirik County, Hormozgan province, killing at least four people and injuring 68 — another civilian-harm inquiry in the seventh month of the war.
+7. The New York Times via AUS NZ Net | The US budget deficit is nearing $2 trillion as higher interest rates inflate borrowing costs while the administration spends on the Iran war and tariff refunds — a fiscal reality check weeks before the midterms.
+8. Disclosure News / Wall Street Journal | Elon Musk denied instructing SpaceX to abruptly restrict Starlink and Starshield services used by Ukrainian drone forces, after terminals reportedly stopped working above 100 mph during missions — the dispute over who throttled a frontline system continues.
+9. CryptoPotato via BitRss | Analysts concluded the crypto market's largest liquidation event, more than $19 billion wiped out in under a day, appears to have been driven by one big misunderstanding, as Bitcoin rebounded above $114,000 on easing US-China tensions.
+10. The New York Times via AUS NZ Net | Netflix cut 1,000 jobs and removed its chief content officer despite strong revenue and profit, blaming a falling stock price and viewer engagement, and brought in Peter Rice to run content — a sudden narrative reset at the largest streamer.
+11. Otago Daily Times via EIN Presswire | White House press secretary Katie Zacharia was fired after less than a week on the job, two US officials said, after a rocky start as President Trump's top spokesperson.
+12. Daily World | The US Coast Guard said it rescued at least 16 people from the water off Mexico's Baja California coast — a major maritime rescue operation in Pacific waters shared by the two countries.
+13. Daily World | India women beat Zimbabwe by four wickets in the historic first T20 international between the two sides — a milestone fixture for Zimbabwe women's cricket on the global stage.
+
 ## 2026-10-16 20:13 UTC
 1. News Watchmen | President Trump said the United States may need to strike Iran's fortified Pickaxe Mountain nuclear site — a direct threat against a hardened nuclear facility that raises escalation risk in a war already in its seventh month.
 2. Jagran Josh | The WHO warned lead exposure causes more than 3.5 million deaths every year and urged countries to act faster ahead of International Lead Poisoning Prevention Week — a massive, underreported health burden hiding in plain sight.
@@ -338,21 +353,6 @@ RSS: https://channel13autoposter.github.io/trend1ng-brief-archive/feed.xml
 11. NASA JPL | NASA's SPHEREx telescope spotted a menagerie of brown dwarfs — dim gas balls formed like stars but built like giant planets, mapped in the Oct. 8 JPL release.
 12. INVC | The Trump administration outlined a $6B+ science package — computing support, research investment, and partnerships aimed at AI, biology, quantum systems, and space.
 13. Fox News | The firing squad execution of the Fort Hood mass murderer is set to be livestreamed — a historic first for a federal-level execution broadcast.
-
-## 2026-10-09 04:13 UTC
-1. Reuters / Pensacola News Journal | Hurricane Isaias is now a Category 2, projected to briefly hit Cat 3 before a late-Friday landfall on the northern Gulf Coast — mandatory evacuations in parts of Florida, emergency declarations in Alabama, 25% of Gulf oil production shut in, and US gas at $4.34/gal.
-2. Reuters / CNN / USA Today | US prosecutors charged ousted Venezuelan president Nicolás Maduro and his wife Cilia Flores with conspiracy to commit torture of political opponents and Americans in a superseding indictment unsealed Oct. 8 — new counts on top of the narcoterrorism case, trial set for next year.
-3. AZoQuantum / PNNL | PNNL physicist Christian Boutan is deploying an AI agent that teaches itself to auto-tune notoriously finicky quantum parametric amplifiers — the hardware that hears faint signals from dark-matter detectors and qubits — freeing physicists and cutting dark-matter search dead time.
-4. WSJ / CNN | Iran's tanker attacks are spreading beyond the Strait of Hormuz into the Persian Gulf north of Qatar while Treasury blacklisted 17 "shadow fleet" vessels for evading sanctions — the blockade stays in force even as Trump ruled out new strikes before the Nov. 3 midterms.
-5. BBC | Margaret Hamilton, the software pioneer whose on-board guidance code carried Apollo 11 to the Moon, has died at 90 — a passing that closes the founding era of mission-critical software engineering.
-6. Poland Insight | The EU is moving to accelerate defense production and military mobility amid hybrid threats, with Poland set to be a major beneficiary of the €150B SAFE loan program — Europe's rearmament wave going institutional.
-7. BBC | OpenAI says teen ChatGPT use is limited, but new research calls it an "unacceptable risk" — the youth-safety case against conversational AI sharpening as parents and regulators weigh in.
-8. BBC | A Russian strike on buses killed at least 30 people in Ukraine, officials say, as deadly attacks on Ukraine surge — the war's toll on civilians climbing again.
-9. NASASpaceFlight | Rocket Lab inaugurated Launch Complex 3 at Wallops Island, Virginia — its fourth pad, purpose-built for the reusable medium-lift Neutron rocket as the company moves up from small lift.
-10. BBC | Japan's beer giants Asahi and Kirin were raided over an alleged price-fixing cartel — one of the biggest antitrust probes in Japan's consumer-goods sector.
-11. Poland Insight | Eurozone business activity accelerated in September with the composite PMI rising to 53.1 — the highest since April 2023 — as new orders grew at their fastest pace since May 2022.
-12. EIN Presswire / Minnesota Newswire | Trump urged Minnesotans to "fight back" against Somali immigrants in the state — escalating his long-running attacks on the community 26 days before the midterms.
-13. BBC | Christa Pike is now walking after surviving a botched lethal injection in Tennessee, her lawyers told the BBC — a rare and medically startling turnaround in the execution case under third-party review.
 
 Products: FIRST TRANSMISSION album $13 https://ko-fi.com/s/6811d82416 · TOP 13 MERCHANDISE (opening with the storefront) https://ch4nnel13.com/#catalog · Free First Taste $0 https://ch4nnel13.com/free · This brief's archive https://channel13autoposter.github.io/trend1ng-brief-archive/
 Watch: Top 13 Universe — the day's biggest verified stories, daily video (a TREND1NG🔥 product): https://www.youtube.com/channel/UCZPKddhOmApI_YaylyQ1skA
