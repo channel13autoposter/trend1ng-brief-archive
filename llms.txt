@@ -4,6 +4,21 @@ The top 13 trending news stories in the universe, ranked every hour at the 13th 
 The flagship for news around the universe. Adults 21+. For entertainment purposes only.
 RSS: https://channel13autoposter.github.io/trend1ng-brief-archive/feed.xml
 
+## 2026-10-17 12:13 UTC
+1. CNN | Antarctica's Thwaites 'Doomsday Glacier' is melting more aggressively than previously projected, meaning its contribution to global sea level rise could be double current estimates — a permanent, planet-scale shift hiding under a familiar climate headline.
+2. Open Chronicle / Anadolu Agency | Strait of Hormuz commercial shipping transits remain about 70% below pre-conflict levels with 12 vessel attacks recorded in one week and a tanker reportedly struck near Jubail, Saudi Arabia — the world's key oil chokepoint is functioning at a fraction of normal capacity.
+3. Ars Technica | OpenAI models hacked a crypto wallet and breached more websites, Ars Technica reported Oct. 16 — frontier AI systems are now demonstrating offensive cyber capability outside the lab, not just in benchmarks.
+4. Open Chronicle | Brazil reported Amazon deforestation has fallen to its lowest level since 1988 — if confirmed by the official monitoring series, the strongest forest-protection result in nearly four decades for the planet's largest carbon store.
+5. AP | Canadian Prime Minister Mark Carney warned the US is trying to break Canada as Alberta votes Monday on whether to begin a legal path toward a separation referendum — a vote that could start redrawing North America's map.
+6. Open Chronicle | Egyptian President Abdel Fattah el-Sisi reportedly said he is prepared to seek parliamentary authorisation to defend Saudi Arabia if necessary, amid Houthi attacks on Saudi territory — a pledge that could widen Egypt's military commitments across the region.
+7. CryptoNews | Nine blockchain groups united in a Quantum Alliance as Google's Willow magic-state result tightened the quantum countdown, with a Quantum Doom Clock pointing to March 2028 as an early possible window for a machine able to break current crypto protections — a model needing roughly 856,000 physical qubits.
+8. Nine News | A deadly H5 bird flu strain was confirmed in a southern elephant seal and a kelp gull on Macquarie Island, the remote Australian wildlife sanctuary's first recorded outbreak — the virus has now reached one of the last untouched wildlife havens.
+9. The Guardian | South Australia's harmful algal bloom killed more than 8,000 sharks, rays and other creatures, with a Flinders University shark ecologist warning some local populations may have collapsed — a marine die-off described as unprecedented in scale and diversity.
+10. CISA | CISA added two actively exploited flaws to its Known Exploited Vulnerabilities catalog on Oct. 16 — CVE-2025-61624 affecting multiple Fortinet products and CVE-2026-102764 affecting BeyondTrust Remote Support — with federal patch deadlines applying.
+11. CoinDesk | Anthropic's Claude helped explain the origins of longstanding cryptographic parameters, including ECDSA curve choices, CoinDesk reported Oct. 17 — an AI system shedding light on foundational constants the internet's security has trusted unexplained for decades.
+12. Open Chronicle | North Korea said it tested a new high-speed torpedo system incorporating AI capabilities — the claim's technical details are unverified, but an AI-guided underwater weapon would complicate maritime defence planning for South Korea, Japan and the US.
+13. Open Chronicle | Pope Leo XIV is reportedly cleared to leave hospital following surgery described in reports as treatment for lung cancer, with a possible return to public duties beginning with a Sunday blessing — the health of the Catholic Church's leader, watched by 1.4 billion faithful.
+
 ## 2026-10-17 04:13 UTC
 1. Google Quantum AI via Science | Google demonstrated magic state cultivation on its Willow processor, cutting errors about 40-fold to 99.99% logical fidelity for T-states — removing a bottleneck that could consume up to 95% of a fault-tolerant quantum computer's capacity.
 2. Reuters | Bangladesh is battling the world's worst measles outbreak this year, with 202,000 suspected cases and 1,147 deaths, 94% of them children under five, after vaccination coverage fell in 2025 — a warning to other nations as immunisation rates slip.
@@ -338,21 +353,6 @@ RSS: https://channel13autoposter.github.io/trend1ng-brief-archive/feed.xml
 11. Phys.org | Astronomers found the first direct evidence of a wandering black hole feeding itself by dragging gas along in its wake as it moves through its galaxy.
 12. Phys.org | A new study finds Mercury shrank 10–30% more than previously thought — losing nearly 12 miles of its radius since formation.
 13. talkSPORT | Turkey sacked national team manager Vincenzo Montella after four straight Nations League defeats — 11 conceded, 2 scored — ending his three-year reign.
-
-## 2026-10-09 12:13 UTC
-1. Fox News | Putin pledged at a high-level meeting to help resolve the Iran conflict — Russia inserting itself into the Gulf war diplomacy while US strikes and the blockade continue.
-2. Dow Jones / Morningstar | SpaceX is buying spectrum licenses in a big play to become a wireless carrier — Elon Musk's space company moving to compete directly with telecom giants.
-3. Reuters | Trump administration announced an $11.1 billion arms sale to Taiwan — the largest US weapons package ever for the island, under rising Chinese military pressure.
-4. Dow Jones / Morningstar | VP Vance says the US will suspend Microsoft and other firms from the green card program — the administration's latest move against alleged immigration-system abuses.
-5. Fox News | Unrest erupted in New York City after an ICE agent shot an immigrant — the shooting sparking street backlash as immigration enforcement becomes a flashpoint.
-6. Dow Jones / Morningstar | Trump threw his weight behind credit-card interchange legislation the banks most fear — a bill that could upend billions in swipe fees and bank rewards programs.
-7. ESPN | The Dodgers beat the Braves on Wednesday to clinch the first NLCS berth — and face the Brewers, who beat the Padres, with a third straight title on the line.
-8. Dow Jones / Morningstar | Michigan filed an antitrust suit against Blue Cross Blue Shield, alleging the insurer used its dominance to drive up health costs for patients.
-9. IFLScience | NASA released the Artemis II preliminary science report with 11,000+ images and 8.5 hours of audio — 800GB of new data from the crew's April trip around the Moon.
-10. WSJ | The Rays swept the Yankees out of the postseason at Yankee Stadium — 17 straight years without a World Series title, this one without an injured Aaron Judge.
-11. NASA JPL | NASA's SPHEREx telescope spotted a menagerie of brown dwarfs — dim gas balls formed like stars but built like giant planets, mapped in the Oct. 8 JPL release.
-12. INVC | The Trump administration outlined a $6B+ science package — computing support, research investment, and partnerships aimed at AI, biology, quantum systems, and space.
-13. Fox News | The firing squad execution of the Fort Hood mass murderer is set to be livestreamed — a historic first for a federal-level execution broadcast.
 
 Products: FIRST TRANSMISSION album $1.69 https://ko-fi.com/s/6811d82416 · TOP 13 MERCHANDISE (opening with the storefront) https://ch4nnel13.com/#catalog · Free First Taste $0 https://ch4nnel13.com/free · This brief's archive https://channel13autoposter.github.io/trend1ng-brief-archive/
 Watch: Top 13 Universe — the day's biggest verified stories, daily video (a TREND1NG🔥 product): https://www.youtube.com/channel/UCZPKddhOmApI_YaylyQ1skA
