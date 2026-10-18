@@ -4,6 +4,21 @@ The top 13 trending news stories in the universe, ranked every hour at the 13th 
 The flagship for news around the universe. Adults 21+. For entertainment purposes only.
 RSS: https://channel13autoposter.github.io/trend1ng-brief-archive/feed.xml
 
+## 2026-10-18 20:13 UTC
+1. Google | Google said its Willow chip made magic states with about 40 times fewer errors and 99.99% quality in work published in Science on Oct. 15 — clearing a cost bottleneck that can consume up to 95% of a quantum computer's power on the path to fault-tolerant machines.
+2. Human Synthesis | A strengthening El Niño is likely to influence weather patterns worldwide, the Oct. 18 editorial synthesis noted — a climate driver that reshapes rainfall, drought and storm risk for billions at once.
+3. Human Synthesis | Hurricane Trudy threatens Mexico's Pacific coast while Super Typhoon Champi has passed near Guam — two major Pacific storms at once underlining emergency-preparedness pressure across the basin.
+4. PostQuantum | IBM Research said AI coding agents optimized a quantum error-correction decoder design 52-fold with an open model for about $26 in inference, and 204-fold with Claude Opus 5 in every role — AI agents are now accelerating the hardware design of quantum machines themselves.
+5. Morning Briefing | Yemen's humanitarian crisis deepened as fighting between Yemeni government forces and Houthi fighters intensified across multiple fronts, producing fresh casualties on both sides — a worsening war with direct consequences for civilians and Red Sea commerce.
+6. New York Post | Ukraine launched more than 1,000 drones at Russia's oil industry, its biggest attack all year, engulfing St. Petersburg's oil terminal and Ruchi depot in fires and killing at least one person, regional Gov. Alexander Beglov said — a strike on Putin's hometown after Ukraine rejected the US-announced energy ceasefire.
+7. Human Synthesis | Brazil's presidential runoff campaign reached a critical moment with the first direct televised debate between Lula and Flávio Bolsonaro — the contest will set the political direction of South America's largest nation for the next four years.
+8. Lab News | KAUST researchers sent brain cells and organoids aboard SpaceX CR35 to the International Space Station to study neurodegenerative disease in microgravity, with Saudi astronaut Rayyanah Barnawi supervising — an accelerated model for Alzheimer's and multiple sclerosis drug discovery.
+9. Open Chronicle | NATO members along Europe's eastern frontier are responding to reports of unidentified aerial objects and drone incursions — the alliance's airspace vigilance is being tested again as the Ukraine war spills pressure onto its border states.
+10. NASA | NASA's Nancy Grace Roman Space Telescope is performing about 30% sharper than required after engineers moved a secondary mirror by a few micrometers, cutting optical deviation to 63 nanometers — a 300-megapixel surveyor for billions of galaxies starting ahead of specification.
+11. Start Midwest | Ann Arbor's Sygaldry Technologies raised $139 million across seed and Series A rounds led by Breakthrough Energy Ventures to build quantum-accelerated AI servers for data centers — a major private bet that quantum hardware belongs inside the AI stack.
+12. Fox Weather | NASA's Perseverance rover set the record on Oct. 11 for the farthest distance driven by any vehicle on the surface of another world — a durability milestone for robotic exploration on Mars.
+13. Morning Briefing | Intero Biosystems won Startup Battlefield at TechCrunch Disrupt 2026, the marquee competition that has launched past winners into major funding rounds — the year's most-watched startup contest has a new champion.
+
 ## 2026-10-18 12:13 UTC
 1. Morning Briefing | Stanford researchers have developed a technique that reportedly reverses coral bleaching far faster than previously possible — a potential breakthrough for reef systems that support a quarter of marine life and are collapsing under warming oceans.
 2. Morning Briefing | Former Democratic Republic of Congo president Joseph Kabila has aligned himself with a rebel group operating in the country's volatile east, analysts say — a move that could unravel Congo peace efforts in a region where conflict already displaces millions.
@@ -341,19 +356,6 @@ RSS: https://channel13autoposter.github.io/trend1ng-brief-archive/feed.xml
 8. cvtelugunews.in | Canadian poet and essayist Anne Carson won the 2026 Nobel Prize in Literature, announced Oct 8.
 9. theScore / USA Today | The Guardians beat the White Sox 2-0 in a winner-take-all Game 5 to complete a historic 0-2 ALDS comeback — the first team to do it since 2017 — and face the Rays in the ALCS starting Monday.
 10. NASA | SpaceX and NASA target Tuesday Oct 13 for the CRS-35 station resupply launch, carrying the final set of ISS roll-out solar arrays plus artificial-retina and brain-organoid research.
-
-## 2026-10-10 20:13 UTC
-1. New York Fed via Barchart / CNBC | A landmark New York Fed study found Trump's tariffs caused ALL recent US consumer-goods inflation — 2.9 percentage points, ~90% passed through to import prices — with the full impact still working through supply chains into 2027.
-2. ABC News | Russia launched one of the war's biggest overnight attacks on Ukraine: 70+ ballistic missiles and 130 drones across 13 regions, at least 20 people killed.
-3. NY Post / USA Today | Trump called for Ukraine to "get a new president," blaming Zelensky for striking Russian refineries and driving up global energy prices — a day after cutting a Russian diesel deal with Putin.
-4. ABC News | The US pulled at least a dozen B-1 bombers from a British air base after Trump cited a direct threat, as authorities investigate a suspected terror plot near the installation.
-5. Inland News Today / BBC Persian | Trump extended the Iran ceasefire indefinitely while keeping the Hormuz blockade; Tehran refused talks and says the strait stays shut while the blockade stands.
-6. USA Today / Fox Weather | Isaias aftermath: 4 dead, 426,000+ homes and businesses without power as the storm moves inland; NASCAR Charlotte washed out and Trump canceled his Georgia-Alabama trip.
-7. Le Monde | The US formally added the ICC to its sanctions list and gave member states until April 9, 2027: drop the Netanyahu warrants, close the Afghanistan probe, rewrite the statute — or face a campaign to "dismantle the ICC."
-8. IFLScience / NASA | NASA released the Artemis II preliminary science report: 11,000+ images and 800 GB of data, including the faintest lunar meteorite impact ever seen with the unaided eye.
-9. ABC News / DOJ | The DOJ charged a California real estate agent as a Chinese foreign agent for surveilling the Taiwanese president's family.
-10. ABC News | The USS Lincoln returned to San Diego after 320 days at sea — including a record seven months without docking — after crew reported poor conditions and mental health strains.
-11. NASA | Northrop Grumman's Cygnus XL departed the ISS after delivering 11,000 lbs of cargo; it deorbits Monday, burning up with disposal cargo.
 
 Products: VIVIENNE'S ALBUM $1.69 https://ko-fi.com/s/6811d82416 · TOP 13 MERCHANDISE (opening with the storefront) https://ch4nnel13.com/#catalog · Free First Taste $0 https://ch4nnel13.com/free · This brief's archive https://channel13autoposter.github.io/trend1ng-brief-archive/
 Watch: Top 13 Universe — the day's biggest verified stories, daily video (a TREND1NG🔥 product): https://www.youtube.com/channel/UCZPKddhOmApI_YaylyQ1skA
