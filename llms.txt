@@ -4,6 +4,21 @@ The top 13 trending news stories in the universe, ranked every hour at the 13th 
 The flagship for news around the universe. Adults 21+. For entertainment purposes only.
 RSS: https://channel13autoposter.github.io/trend1ng-brief-archive/feed.xml
 
+## 2026-10-18 04:13 UTC
+1. HTX Insights | Anthropic's Mythos 5 autonomously designed quantum circuits that beat the best human designs on all eight foundational tasks in 53 hours, including a reversible divsteps method cutting gate count 17-fold for elliptic-curve cryptography — an AI system now improving the machines that could one day break current encryption.
+2. SciTechDaily via EIN Presswire | Scientists at Princeton Plasma Physics Laboratory identified a surprising shortcut to nuclear fusion that could dramatically reduce the energy needed to achieve ignition — a neglected result that, if it holds, shortens the path to limitless clean power.
+3. Disclosure News | Top executives at Anthropic, OpenAI and other AI companies are privately gaming out scenarios for a public and political revolt after a catastrophic AI event, most likely a cyberattack shutting down financial services, internet connectivity, or power and water — the industry is now planning for its own worst day.
+4. NewsCubby | NASA outlined brain-tissue, crop and drug-resistant bacteria studies for SpaceX's next station resupply flight, with Earth-kept counterparts for comparison — the quiet experimental groundwork long-duration human spaceflight depends on.
+5. Disclosure News | Ukrainian President Zelensky told an EU summit in Brussels the war will cost 155 billion euros next year and asked Europe for at least 70 billion euros more for defence, weapons and resilience, months after the EU approved a 90 billion euro loan through 2027.
+6. NASA | NASA's Chandra Observatory found the radio-wave formation shaped like a treble clef is likely caused by an outburst from a supermassive black hole followed by a collision of two galaxy clusters — a single image tracing two of the universe's most violent processes.
+7. Reuters | US Secretary of State Marco Rubio said Saturday the United States wants Israel to do more to deter settler attacks in the West Bank, after video showed an attack injuring Washington Post photojournalist Heidi Levine, with at least 170 settler attacks recorded since September 27.
+8. RocketNews | Astronomers using the James Webb Space Telescope found the atmosphere of hot Jupiter WASP-17b, about 1,300 light-years away, bulges asymmetrically on one side rather than forming a smooth outline, in Nature Astronomy research using a new transit-mapping method that reads different regions of a planet separately.
+9. Eastern Herald | Israel's military condemned a Saturday attack on French, Belgian and Polish diplomats near Taybeh in the West Bank, while the Prime Minister's office urged caution and cited a possible smear campaign — a diplomatic incident now straining Israel's ties with Europe.
+10. Disclosure News | Scientists in China, Thailand and Mexico described Dianjunus rex, a fungus up to 50 cm tall in Yunnan's forests that forms an entirely new genus and family dating to about 65 million years ago, just after the mass extinction that ended the dinosaurs.
+11. Inshorts | At least 17 people died in a stampede at the exit gate of a Durga Puja pandal in Kolkata on Saturday amid heavy crowds and rain, police said — a festival-safety failure at one of India's largest annual gatherings.
+12. Nature World News | Two newly discovered asteroids, 2026 TG9 and 2026 TP6, passed closer than the Moon on October 14 about 19 hours apart at roughly 0.59 and 0.57 lunar distances, NASA JPL data show, with no impact risk — a reminder of how late small rocks near Earth are still found.
+13. Eastern Herald | Liverpool beat a Brentford side that finished with nine men on Alexander Isak's winner, but manager Andoni Iraola said Dominik Szoboszlai and Jeremie Frimpong will be out for some time — a win that cost Liverpool two starters.
+
 ## 2026-10-17 20:13 UTC
 1. Scientific American | Global timekeepers voted to replace the leap second, used since 1972, with a leap-hour system letting official time drift from Earth's rotation by up to an hour — a permanent change to the infrastructure every clock, network and satellite relies on.
 2. BBC | Anthropic confirmed it is sharing a draft bill with US lawmakers under which the government could block release of an AI model if there is an imminent risk of killing or seriously injuring more than 50 people or causing more than $1 billion in damages.
@@ -338,21 +353,6 @@ RSS: https://channel13autoposter.github.io/trend1ng-brief-archive/feed.xml
 10. Phys.org | Webb confirmed water clouds thickening and thinning on WISE 0855, the coldest known brown dwarf just 7.5 light-years out — the first variable water clouds ever detected beyond the solar system.
 11. PRNewswire / SQC | Silicon Quantum Computing's quantum-enhanced AI chip Watermelon made Fast Company's 2026 Next Big Things in Tech list — quantum reservoir computing reaches the mainstream.
 12. Beacon Journal / NBC | Cleveland battered Chicago's bullpen in ALDS Games 3 and 4 to force a winner-take-all Game 5 tonight in Cleveland; Brewers and Dodgers already advanced, Rays swept the Yankees 3-0.
-
-## 2026-10-10 04:13 UTC
-1. Reuters | Trump says Russia agreed to supply diesel to global markets and his administration lifted sanctions on Russian fuel — the same day Witkoff and Kushner held six hours of Ukraine peace talks in Miami with Ukraine and European/NATO delegations, aiming at a unified proposal before winter.
-2. Tasnim via The Times | Iran's foreign minister Abbas Aragchi says Tehran is reviewing the US response to a proposal under which the Strait of Hormuz could reopen within seven days — the war's chokepoint suddenly on a clock.
-3. Reuters / CNN / USA Today | A superseding indictment charges ousted Venezuelan president Nicolás Maduro and his wife Cilia Flores with conspiracy to torture political opponents and Americans — new counts stacked on the narcoterrorism case, trial set for next year.
-4. Fox News | Putin pledged at a high-level meeting to help resolve the Iran conflict — Russia inserting itself into Gulf war diplomacy while US strikes and the blockade continue.
-5. AZoQuantum / PNNL | PNNL physicist Christian Boutan is deploying a self-teaching AI agent to auto-tune notoriously finicky quantum parametric amplifiers — the hardware that hears faint signals from dark-matter detectors and qubits — cutting dark-matter search dead time.
-6. Reuters / CNN | Hurricane Isaias neared landfall on the Florida Panhandle with 72% of Gulf of Mexico oil production shut in, Brent at $105, and US diesel stockpiles at their lowest seasonal level since 1982.
-7. USA Today / NY Post | The Trump administration issued fresh financial sanctions against the ICC hours after ex-judge Navi Pillay won the 2026 Nobel Peace Prize, while Trump told a Syracuse rally he deserves "eight" medals instead of the "mystery woman" Norway chose.
-8. Dow Jones / Morningstar | SpaceX is buying spectrum licenses in a big play to become a wireless carrier — Musk's space company moving to compete directly with the telecom giants.
-9. Reuters | The Trump administration announced an $11.1 billion arms sale to Taiwan — the largest US weapons package ever for the island, under rising Chinese military pressure.
-10. Dow Jones / Morningstar | VP Vance says the US will suspend Microsoft and other firms from the green card program — the administration's latest move against alleged immigration-system abuses.
-11. Fox News | Unrest erupted in New York City after an ICE agent shot an immigrant — the shooting sparking street backlash as immigration enforcement becomes a flashpoint.
-12. BBC | Margaret Hamilton, the software pioneer whose on-board guidance code carried Apollo 11 to the Moon, has died at 90 — a passing that closes the founding era of mission-critical software engineering.
-13. Reuters | Lionel Messi closed his 21-year Argentina career with a goal and two assists in an emotional 3-0 farewell win over Benin at a packed Monumental — 126 goals in 208 caps, both records.
 
 Products: VIVIENNE'S ALBUM $1.69 https://ko-fi.com/s/6811d82416 · TOP 13 MERCHANDISE (opening with the storefront) https://ch4nnel13.com/#catalog · Free First Taste $0 https://ch4nnel13.com/free · This brief's archive https://channel13autoposter.github.io/trend1ng-brief-archive/
 Watch: Top 13 Universe — the day's biggest verified stories, daily video (a TREND1NG🔥 product): https://www.youtube.com/channel/UCZPKddhOmApI_YaylyQ1skA
